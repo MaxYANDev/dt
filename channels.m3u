@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1 综合
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 
@@ -2263,3 +2264,4 @@ https://live.dtradio.com.cn/xwzh/playlist.m3u8?_upt=303030ac1720288493
 https://live.dtradio.com.cn/ggpd/playlist.m3u8?_upt=109179b81720288493
 #EXTINF:-1 tvg-id="大同生活频道" tvg-name="大同生活频道" tvg-logo="http://img.dtradio.com.cn/20200805b5f06d439c3d20f87c0a8aac2c21dbb0.png" group-title="北京 山西",大同生活频道
 https://live.dtradio.com.cn/mdsh/playlist.m3u8?_upt=3c1b4cca1720288493
+
