@@ -1,6 +1,2265 @@
-#EXTINF:-1 tvg-name="新闻综合频道" tvg-logo="http://img.dtradio.com.cn/202108133565912000360b20a262fb72f4fecbb3.png" group-title="北京 山西", 新闻综合频道
-https://live.dtradio.com.cn/xwzh/playlist.m3u8?_upt=c4e0587d1720397665
-#EXTINF:-1 tvg-name="公共频道" tvg-logo="http://img.dtradio.com.cn/20200805fc4f2340850992cfd563d2ef3e8fed30.png" group-title="北京 山西", 公共频道
-https://live.dtradio.com.cn/ggpd/playlist.m3u8?_upt=0af70c211720397665
-#EXTINF:-1 tvg-name="大同生活频道" tvg-logo="http://img.dtradio.com.cn/20200805b5f06d439c3d20f87c0a8aac2c21dbb0.png" group-title="北京 山西", 大同生活频道
-https://live.dtradio.com.cn/mdsh/playlist.m3u8?_upt=723a39571720397665
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1 综合
+https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV-2 财经
+https://z88.ubtvfans.com/live/rx1/2305/33545cc7858137acae827ca84a574951/index.m3u8
+
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视",CCTV-3 综艺
+http://171.109.211.52:8888/udp/239.81.0.231:4056
+
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV-4 中文国际
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
+
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV-5 体育
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
+https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视",CCTV-6 电影
+https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
+
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视",CCTV-7 国防军事
+http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225805/index.m3u8
+
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视",CCTV-8 电视剧
+https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
+
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视",CCTV-9 纪录
+https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视",CCTV-10 科教
+http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/25137bd7c4494128bf0cba271974928f/1200.m3u8
+
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视",CCTV-11 戏曲
+http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225815/index.m3u8
+
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视",CCTV-12 社会与法
+http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225932/index.m3u8
+
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视",CCTV-13 新闻
+https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
+
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视",CCTV-14 少儿
+http://118.79.114.126:6001/rtp/226.0.2.166:9240
+
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视",CCTV-15 音乐
+http://118.79.114.126:6001/rtp/226.0.2.32:8168
+
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
+http://118.79.114.126:6001/rtp/226.0.2.169:9264
+
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV-17 农业农村
+http://118.79.114.126:6001/rtp/226.0.2.170:9272
+
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视",CGTN
+http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/cctvnews/1000/index.m3u8?&encrypt=
+
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
+http://64.140.167.170:8080/live/bjws/hls.m3u8
+
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="北京 山西",山西卫视
+http://118.79.114.126:6001/rtp/226.0.2.11:8000
+
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视",东方卫视
+http://tvbox.netsite.cc/proxy/609485212/609485212.m3u8
+
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视",浙江卫视
+https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏卫视
+http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000295602.m3u8
+
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视",湖南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
+
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视",深圳卫视
+http://118.79.114.126:6001/rtp/226.0.2.47:8288
+
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视",天津卫视
+http://118.79.114.126:6001/rtp/226.0.2.56:8360
+
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="卫视",河南卫视
+http://118.79.114.126:6001/rtp/226.0.2.52:8328
+
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视",广东卫视
+http://118.79.114.126:6001/rtp/226.0.2.45:8272
+
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视",黑龙江卫视
+http://118.79.114.126:6001/rtp/226.0.2.48:8296
+
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视",安徽卫视
+http://118.79.114.126:6001/rtp/226.0.2.37:8208
+
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="卫视",辽宁卫视
+http://118.79.114.126:6001/rtp/226.0.2.35:8192
+
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视",四川卫视
+http://118.79.114.126:6001/rtp/226.0.2.42:8248
+
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视",重庆卫视
+https://sjlivecdn9.cbg.cn/204912315959/app_2/_definst_/ls_2.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="卫视",贵州卫视
+http://118.79.114.126:6001/rtp/226.0.2.43:8256
+
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="卫视",江西卫视
+http://118.79.114.126:6001/rtp/226.0.2.54:8344
+
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="卫视",东南卫视
+http://118.79.114.126:6001/rtp/226.0.2.40:8232
+
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视",湖北卫视
+http://118.79.114.126:6001/rtp/226.0.2.49:8304
+
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视",山东卫视
+http://118.79.114.126:6001/rtp/226.0.2.51:8320
+
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="卫视",海南卫视
+http://118.79.114.126:6001/rtp/226.0.2.61:8400
+
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="卫视",广西卫视
+http://118.79.114.126:6001/rtp/226.0.2.46:8280
+
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="卫视",吉林卫视
+http://118.79.114.126:6001/rtp/226.0.2.58:8376
+
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视",陕西卫视
+http://118.79.114.126:6001/rtp/226.0.2.53:8336
+
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="卫视",内蒙古卫视
+http://118.79.114.126:6001/rtp/226.0.2.63:8416
+
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="卫视",西藏卫视
+http://118.79.114.126:6001/rtp/226.0.2.66:8440
+
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="卫视",河北卫视
+http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=f1b16a3a3866dafecb94ec2bb4160e58
+
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="卫视",青海卫视
+http://118.79.114.126:6001/rtp/226.0.2.59:8384
+
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="卫视",宁夏卫视
+http://118.79.114.126:6001/rtp/226.0.2.64:8424
+
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="卫视",云南卫视
+http://118.79.114.126:6001/rtp/226.0.2.60:8392
+
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="卫视",甘肃卫视
+http://118.79.114.126:6001/rtp/226.0.2.55:8352
+
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="卫视",新疆卫视
+http://118.79.114.126:6001/rtp/226.0.2.67:8448
+
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港澳",凤凰中文
+http://210.210.155.37/session/7da0a308-8f70-11ee-830b-8c098f021b6b/uq2663/h/h157/index2.m3u8
+
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港澳",凤凰资讯
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+
+#EXTINF:-1 tvg-id="6124" tvg-name="生命频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/shengming.png" group-title="人与自然",绽放的生命4
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/fbb3d1d6ae37458e84f574881778ac7c/1200.m3u8
+
+#EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="北京 山西",北京纪实科教
+http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel22030/index.m3u8
+
+#EXTINF:-1 tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://live.fanmingming.com/tv/北京新闻.png" group-title="北京 山西",北京新闻
+https://live.funhillrm.com/5/sd/live.m3u8
+
+#EXTINF:-1 tvg-id="山西影视" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="北京 山西",山西影视
+http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true
+
+#EXTINF:-1 tvg-id="山西黄河" tvg-name="山西黄河" tvg-logo="https://live.fanmingming.com/tv/山西黄河.png" group-title="北京 山西",山西黄河
+http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
+
+#EXTINF:-1 tvg-id="山西经济" tvg-name="山西经济" tvg-logo="https://live.fanmingming.com/tv/山西经济.png" group-title="北京 山西",山西经济
+http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true
+
+#EXTINF:-1 tvg-id="山西文体生活" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="北京 山西",山西文体生活
+http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true
+
+#EXTINF:-1 tvg-id="大同教育" tvg-name="大同教育" tvg-logo="https://live.fanmingming.com/tv/大同教育.png" group-title="北京 山西",大同教育
+https://vod.dtradio.com.cn/video/2024/01/30/01d3d8dcacfbced2a0b8ede719b574ad.mp4
+
+#EXTINF:-1 tvg-name="mjh-seven-mel" tvg-id="mjh-seven-mel" tvg-logo="https://i.mjh.nz/.images/seven-mel.png" tvg-chno="7" group-title="Melbourne" , Seven
+https://i.mjh.nz/seven-mel.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-7two-mel" tvg-id="mjh-7two-mel" tvg-logo="https://i.mjh.nz/.images/7two-mel.png" tvg-chno="72" group-title="Melbourne" , 7two
+https://i.mjh.nz/7two-mel.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-7mate-mel" tvg-id="mjh-7mate-mel" tvg-logo="https://i.mjh.nz/.images/7mate-mel.png" tvg-chno="74" group-title="Melbourne" , 7mate
+https://i.mjh.nz/7mate-mel.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-7flix-mel" tvg-id="mjh-7flix-mel" tvg-logo="https://i.mjh.nz/.images/7flix-mel.png" tvg-chno="76" group-title="Melbourne" , 7flix
+https://i.mjh.nz/7flix-mel.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-channel-9-vic" tvg-id="mjh-channel-9-vic" tvg-logo="https://imageresizer.static9.net.au/MFJ65H8J3Itwr7-HcHQxr-jBssc=/768x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F11%2F9_Colour_RGB.png" tvg-chno="9" group-title="Melbourne" , Channel 9
+https://i.mjh.nz/channel-9-vic.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-channel-9-vic-alt" tvg-id="mjh-channel-9-vic" tvg-logo="https://imageresizer.static9.net.au/MFJ65H8J3Itwr7-HcHQxr-jBssc=/768x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F11%2F9_Colour_RGB.png" group-title="Melbourne" , Channel 9 | 720p 2ch
+https://i.mjh.nz/channel-9-vic-alt.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-gem-vic" tvg-id="mjh-gem-vic" tvg-logo="https://imageresizer.static9.net.au/Sy9ucDVodnb-fyeiUS-vtQ2eGUQ=/768x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F13%2F9Gem_Colour_RGB.png" tvg-chno="92" group-title="Melbourne" , 9Gem
+https://i.mjh.nz/gem-vic.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-gem-vic-alt" tvg-id="mjh-gem-vic" tvg-logo="https://imageresizer.static9.net.au/Sy9ucDVodnb-fyeiUS-vtQ2eGUQ=/768x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F13%2F9Gem_Colour_RGB.png" group-title="Melbourne" , 9Gem | 720p 2ch
+https://i.mjh.nz/gem-vic-alt.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-go-vic" tvg-id="mjh-go-vic" tvg-logo="https://imageresizer.static9.net.au/CxI6wlQYTeYGvWB7bUs_yRPpNMc=/768x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F12%2F9Go_Colour_RGB.png" tvg-chno="93" group-title="Melbourne" , 9Go!
+https://i.mjh.nz/go-vic.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-life-vic" tvg-id="mjh-life-vic" tvg-logo="https://imageresizer.static9.net.au/qlb5QuLVjnDqYIvtg0QWB2IHyRc=/768x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F14%2F9Life_Colour_RGB.png" tvg-chno="94" group-title="Melbourne" , 9Life
+https://i.mjh.nz/life-vic.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-rush-vic" tvg-id="mjh-rush-vic" tvg-logo="https://imageresizer.static9.net.au/uY6wvIWm8DgRIK1piKvINO-37rE=/768x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2020%2F01%2F275893%2F9Rush_Colour_RGB.png" tvg-chno="96" group-title="Melbourne" , 9Rush
+https://i.mjh.nz/rush-vic.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-abc-vic" tvg-id="mjh-abc-vic" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" tvg-chno="2" group-title="Melbourne" , ABC TV
+https://c.mjh.nz/abc-vic.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-vic" tvg-id="mjh-10-vic" tvg-logo="https://i.mjh.nz/.images/10-nsw.png" tvg-chno="10" group-title="Melbourne" , 10
+https://i.mjh.nz/10-vic.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10bold-vic" tvg-id="mjh-10bold-vic" tvg-logo="https://i.mjh.nz/.images/10bold-nsw.png" tvg-chno="12" group-title="Melbourne" , 10 BOLD
+https://i.mjh.nz/10bold-vic.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10peach-vic" tvg-id="mjh-10peach-vic" tvg-logo="https://i.mjh.nz/.images/10peach-nsw.png" tvg-chno="11" group-title="Melbourne" , 10 Peach
+https://i.mjh.nz/10peach-vic.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10shake-vic" tvg-id="mjh-10shake-vic" tvg-logo="https://i.mjh.nz/.images/10-nickelodeon.png" tvg-chno="13" group-title="Melbourne" , Nickelodeon
+https://i.mjh.nz/10shake-vic.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-c31" tvg-id="mjh-c31" tvg-logo="https://i.mjh.nz/.images/c31.png" tvg-chno="44" group-title="Melbourne" , Channel 31
+https://i.mjh.nz/c31.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-3aw-melbourne" tvg-id="mjh-3aw-melbourne" tvg-logo="https://i.mjh.nz/.images/3aw-melbourne.png" group-title="Melbourne" , 3AW Melbourne
+https://i.mjh.nz/3aw-melbourne.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-bordersecurityaustralia-FAST" tvg-id="mjh-bordersecurityaustralia-FAST" tvg-logo="https://i.mjh.nz/.images/bordersecurityaustralia-FAST.png" group-title="Au" , Border Security Australia
+https://i.mjh.nz/bordersecurityaustralia-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-racing-FAST" tvg-id="mjh-racing-FAST" tvg-logo="https://i.mjh.nz/.images/racing-FAST.png" tvg-chno="78" group-title="Au" , Racing.com
+https://i.mjh.nz/racing-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-ausbiz-FAST" tvg-id="mjh-ausbiz-FAST" tvg-logo="https://i.mjh.nz/.images/ausbiz-FAST.png" group-title="Au" , ausbiz
+https://i.mjh.nz/ausbiz-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-hardcorepawn-FAST" tvg-id="mjh-hardcorepawn-FAST" tvg-logo="https://i.mjh.nz/.images/hardcorepawn-FAST.png" group-title="Au" , Hardcore Pawn
+https://i.mjh.nz/hardcorepawn-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-outdoor-FAST" tvg-id="mjh-outdoor-FAST" tvg-logo="https://i.mjh.nz/.images/outdoor-FAST.png" group-title="Au" , Outdoor Channel
+https://i.mjh.nz/outdoor-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-ade1_event-FAST" tvg-id="mjh-ade1_event-FAST" tvg-logo="https://i.mjh.nz/.images/ade1_event-FAST.png" group-title="Au" , SANFL
+https://i.mjh.nz/ade1_event-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-allsaints-FAST" tvg-id="mjh-allsaints-FAST" tvg-logo="https://i.mjh.nz/.images/allsaints-FAST.png" group-title="Au" , All Saints
+https://i.mjh.nz/allsaints-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-supercarsreplays-FAST" tvg-id="mjh-supercarsreplays-FAST" tvg-logo="https://i.mjh.nz/.images/supercarsreplays-FAST.png" group-title="Au" , Supercars Replays
+https://i.mjh.nz/supercarsreplays-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-travelaus-FAST" tvg-id="mjh-travelaus-FAST" tvg-logo="https://i.mjh.nz/.images/travelaus-FAST.png" group-title="Au" , Travel Australia
+https://i.mjh.nz/travelaus-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-bigbrother-FAST" tvg-id="mjh-bigbrother-FAST" tvg-logo="https://i.mjh.nz/.images/bigbrother-FAST.png" group-title="Au" , Big Brother
+https://i.mjh.nz/bigbrother-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-betterhomesandgardens-FAST" tvg-id="mjh-betterhomesandgardens-FAST" tvg-logo="https://i.mjh.nz/.images/betterhomesandgardens-FAST.png" group-title="Au" , Better Homes And Gardens
+https://i.mjh.nz/betterhomesandgardens-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-cas33-FAST" tvg-id="mjh-cas33-FAST" tvg-logo="https://i.mjh.nz/.images/cas33-FAST.png" group-title="Au" , Bathurst Throwback
+https://i.mjh.nz/cas33-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-hockeyreplays-FAST" tvg-id="mjh-hockeyreplays-FAST" tvg-logo="https://i.mjh.nz/.images/hockeyreplays-FAST.png" group-title="Au" , Hockey Replays
+https://i.mjh.nz/hockeyreplays-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-mightymachines-FAST" tvg-id="mjh-mightymachines-FAST" tvg-logo="https://i.mjh.nz/.images/mightymachines-FAST.png" group-title="Au" , Mighty Machines
+https://i.mjh.nz/mightymachines-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-cas21-FAST" tvg-id="mjh-cas21-FAST" tvg-logo="https://i.mjh.nz/.images/cas21-FAST.png" group-title="Au" , Crazy In Love
+https://i.mjh.nz/cas21-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-onthecase-FAST" tvg-id="mjh-onthecase-FAST" tvg-logo="https://i.mjh.nz/.images/onthecase-FAST.png" group-title="Au" , On The Case
+https://i.mjh.nz/onthecase-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-cas24-FAST" tvg-id="mjh-cas24-FAST" tvg-logo="https://i.mjh.nz/.images/cas24-FAST.png" group-title="Au" , Bondi Vet
+https://i.mjh.nz/cas24-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-cas25-FAST" tvg-id="mjh-cas25-FAST" tvg-logo="https://i.mjh.nz/.images/cas25-FAST.png" group-title="Au" , Australia's Got Talent
+https://i.mjh.nz/cas25-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-cas26-FAST" tvg-id="mjh-cas26-FAST" tvg-logo="https://i.mjh.nz/.images/cas26-FAST.png" group-title="Au" , Home and Away Classics
+https://i.mjh.nz/cas26-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-7now-FAST" tvg-id="mjh-7now-FAST" tvg-logo="https://i.mjh.nz/.images/7now-FAST.png" group-title="Au" , 7now
+https://i.mjh.nz/7now-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-livgolfreplays-FAST" tvg-id="mjh-livgolfreplays-FAST" tvg-logo="https://i.mjh.nz/.images/livgolfreplays-FAST.png" group-title="Au" , LIV Golf Replays
+https://i.mjh.nz/livgolfreplays-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-cas29-FAST" tvg-id="mjh-cas29-FAST" tvg-logo="https://i.mjh.nz/.images/cas29-FAST.png" group-title="Au" , Cooking & Culture
+https://i.mjh.nz/cas29-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-7cricket-FAST" tvg-id="mjh-7cricket-FAST" tvg-logo="https://i.mjh.nz/.images/7cricket-FAST.png" group-title="Au" , 7Cricket
+https://i.mjh.nz/7cricket-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-cas31-FAST" tvg-id="mjh-cas31-FAST" tvg-logo="https://i.mjh.nz/.images/cas31-FAST.png" group-title="Au" , State League Footy Replays
+https://i.mjh.nz/cas31-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-cas32-FAST" tvg-id="mjh-cas32-FAST" tvg-logo="https://i.mjh.nz/.images/cas32-FAST.png" group-title="Au" , 7NEWS Spotlight
+https://i.mjh.nz/cas32-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-mytimemovienetwork-FAST" tvg-id="mjh-mytimemovienetwork-FAST" tvg-logo="https://i.mjh.nz/.images/mytimemovienetwork-FAST.png" group-title="Au" , MyTime Movie Network
+https://i.mjh.nz/mytimemovienetwork-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-ahm-FAST" tvg-id="mjh-ahm-FAST" tvg-logo="https://i.mjh.nz/.images/ahm-FAST.png" group-title="Au" , Action Hollywood Movies
+https://i.mjh.nz/ahm-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-wicked-tuna" tvg-id="mjh-10-wicked-tuna" tvg-logo="https://10play.com.au/ip/s3/2022/09/02/2d667eb54bf0119b84b744f9569ee214-1177247.png" group-title="Au" , Wicked Tuna
+https://i.mjh.nz/10-wicked-tuna.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-winnersnlosers-FAST" tvg-id="mjh-winnersnlosers-FAST" tvg-logo="https://i.mjh.nz/.images/winnersnlosers-FAST.png" group-title="Au" , Winners and Losers
+https://i.mjh.nz/winnersnlosers-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-propertydreams-FAST" tvg-id="mjh-propertydreams-FAST" tvg-logo="https://i.mjh.nz/.images/propertydreams-FAST.png" group-title="Au" , Property Dreams
+https://i.mjh.nz/propertydreams-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-outbacktruckers-FAST" tvg-id="mjh-outbacktruckers-FAST" tvg-logo="https://i.mjh.nz/.images/outbacktruckers-FAST.png" group-title="Au" , Outback Truckers
+https://i.mjh.nz/outbacktruckers-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-anglersparadise-FAST" tvg-id="mjh-anglersparadise-FAST" tvg-logo="https://i.mjh.nz/.images/anglersparadise-FAST.png" group-title="Au" , Anglers Paradise
+https://i.mjh.nz/anglersparadise-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-onefightreplays-FAST" tvg-id="mjh-onefightreplays-FAST" tvg-logo="https://i.mjh.nz/.images/onefightreplays-FAST.png" group-title="Au" , ONE Fight Replays
+https://i.mjh.nz/onefightreplays-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-cas15-FAST" tvg-id="mjh-cas15-FAST" tvg-logo="https://i.mjh.nz/.images/cas15-FAST.png" group-title="Au" , 7AFL
+https://i.mjh.nz/cas15-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-all-starcinema-FAST" tvg-id="mjh-all-starcinema-FAST" tvg-logo="https://i.mjh.nz/.images/all-starcinema-FAST.png" group-title="Au" , All-Star Cinema
+https://i.mjh.nz/all-starcinema-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-bluelight-FAST" tvg-id="mjh-bluelight-FAST" tvg-logo="https://i.mjh.nz/.images/bluelight-FAST.png" group-title="Au" , Blue Light
+https://i.mjh.nz/bluelight-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-moviesphere-FAST" tvg-id="mjh-moviesphere-FAST" tvg-logo="https://i.mjh.nz/.images/moviesphere-FAST.png" group-title="Au" , MovieSphere
+https://i.mjh.nz/moviesphere-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-naturetime" tvg-id="mjh-10-naturetime" tvg-logo="https://10play.com.au/ip/s3/2023/07/12/7b0ce57edb70336a469f938d59645bbe-1248639.png" group-title="Au" , NatureTime
+https://i.mjh.nz/10-naturetime.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-medicalnrescue-FAST" tvg-id="mjh-medicalnrescue-FAST" tvg-logo="https://i.mjh.nz/.images/medicalnrescue-FAST.png" group-title="Au" , Medical And Rescue
+https://i.mjh.nz/medicalnrescue-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-blueheelers-FAST" tvg-id="mjh-blueheelers-FAST" tvg-logo="https://i.mjh.nz/.images/blueheelers-FAST.png" group-title="Au" , Blue Heelers
+https://i.mjh.nz/blueheelers-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-sasaustralia-FAST" tvg-id="mjh-sasaustralia-FAST" tvg-logo="https://i.mjh.nz/.images/sasaustralia-FAST.png" group-title="Au" , SAS Australia
+https://i.mjh.nz/sasaustralia-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-acountrypractice-FAST" tvg-id="mjh-acountrypractice-FAST" tvg-logo="https://i.mjh.nz/.images/acountrypractice-FAST.png" group-title="Au" , A Country Practice
+https://i.mjh.nz/acountrypractice-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-wsl-FAST" tvg-id="mjh-wsl-FAST" tvg-logo="https://i.mjh.nz/.images/wsl-FAST.png" group-title="Au" , Surfing
+https://i.mjh.nz/wsl-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-aliennation-FAST" tvg-id="mjh-aliennation-FAST" tvg-logo="https://i.mjh.nz/.images/aliennation-FAST.png" group-title="Au" , Alien Nation
+https://i.mjh.nz/aliennation-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-htv-FAST" tvg-id="mjh-htv-FAST" tvg-logo="https://i.mjh.nz/.images/htv-FAST.png" group-title="Au" , HauntTV
+https://i.mjh.nz/htv-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-rmc-FAST" tvg-id="mjh-rmc-FAST" tvg-logo="https://i.mjh.nz/.images/rmc-FAST.png" group-title="Au" , River Monsters
+https://i.mjh.nz/rmc-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-7bravo-FAST" tvg-id="mjh-7bravo-FAST" tvg-logo="https://i.mjh.nz/.images/7bravo-FAST.png" tvg-chno="75" group-title="Au" , 7Bravo
+https://i.mjh.nz/7bravo-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-heki-FAST" tvg-id="mjh-heki-FAST" tvg-logo="https://i.mjh.nz/.images/heki-FAST.png" group-title="Au" , Hells Kitchen
+https://i.mjh.nz/heki-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-far-FAST" tvg-id="mjh-far-FAST" tvg-logo="https://i.mjh.nz/.images/far-FAST.png" group-title="Au" , Fail Army
+https://i.mjh.nz/far-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-boxingreplays-FAST" tvg-id="mjh-boxingreplays-FAST" tvg-logo="https://i.mjh.nz/.images/boxingreplays-FAST.png" group-title="Au" , Boxing Replays
+https://i.mjh.nz/boxingreplays-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-gaf-FAST" tvg-id="mjh-gaf-FAST" tvg-logo="https://i.mjh.nz/.images/gaf-FAST.png" group-title="Au" , Grace and Frankie
+https://i.mjh.nz/gaf-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-nick-jr" tvg-id="mjh-10-nick-jr" tvg-logo="https://10play.com.au/ip/s3/2023/12/20/417071931690079b4df5513d342edb73-1289374.png" group-title="Au" , Nick Jr Club
+https://i.mjh.nz/10-nick-jr.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-nickteen" tvg-id="mjh-10-nickteen" tvg-logo="https://10play.com.au/ip/s3/2023/08/03/80794063b69ee9991510e95c601c83e7-1253578.png" group-title="Au" , NickTeen
+https://i.mjh.nz/10-nickteen.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-nicktoons" tvg-id="mjh-10-nicktoons" tvg-logo="https://10play.com.au/ip/s3/2023/08/03/e30c04dad94ed20e16f069dd0914ecb0-1253580.png" group-title="Au" , NickToons
+https://i.mjh.nz/10-nicktoons.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-retro-cartoons" tvg-id="mjh-10-retro-cartoons" tvg-logo="https://10play.com.au/ip/s3/2023/08/03/3e1adce8e2df3d09742ee838bbdf46be-1253560.png" group-title="Au" , Nick Rewind
+https://i.mjh.nz/10-retro-cartoons.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-nick-classics" tvg-id="mjh-10-nick-classics" tvg-logo="https://10play.com.au/ip/s3/2023/08/03/b9d7b0881bd3510944d31ddf27fb99ea-1253556.png" group-title="Au" , Nick Classics
+https://i.mjh.nz/10-nick-classics.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-mtv-reality" tvg-id="mjh-10-mtv-reality" tvg-logo="https://10play.com.au/ip/s3/2023/09/25/f51b3f2548dfdb88949cdbd13f037679-1266119.png" group-title="Au" , MTV Reality
+https://i.mjh.nz/10-mtv-reality.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-mtv-dating" tvg-id="mjh-10-mtv-dating" tvg-logo="https://10play.com.au/ip/s3/2023/09/25/87a0cf6001b8049ac6dd935caec9e7a4-1266117.png" group-title="Au" , MTV Dating
+https://i.mjh.nz/10-mtv-dating.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-mtv-retro" tvg-id="mjh-10-mtv-retro" tvg-logo="https://10play.com.au/ip/s3/2023/09/25/b732245ef2430d278e0b2ef24a704cbe-1266114.png" group-title="Au" , MTV Retro
+https://i.mjh.nz/10-mtv-retro.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-mtv-biggest-pop" tvg-id="mjh-10-mtv-biggest-pop" tvg-logo="https://10play.com.au/ip/s3/2023/09/25/57fee983dfaa2afa821ae798c49a002b-1266109.png" group-title="Au" , MTV Biggest Pop
+https://i.mjh.nz/10-mtv-biggest-pop.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-mtv-love" tvg-id="mjh-10-mtv-love" tvg-logo="https://10play.com.au/ip/s3/2023/09/25/68943f881f079398dcdf4681db2fe648-1266107.png" group-title="Au" , MTV Love
+https://i.mjh.nz/10-mtv-love.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-judge-judy" tvg-id="mjh-10-judge-judy" tvg-logo="https://10play.com.au/ip/s3/2022/09/02/461008ac0d02137f713ec0e4883be6c4-1177265.png" group-title="Au" , Judge Judy
+https://i.mjh.nz/10-judge-judy.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-south-park-two" tvg-id="mjh-10-south-park-two" tvg-logo="https://10play.com.au/ip/s3/2024/05/17/1db9211d3c39fc48cfbd149f4f4edb12-1315154.png" group-title="Au" , South Park: Cartman Collection
+https://i.mjh.nz/10-south-park-two.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-south-park" tvg-id="mjh-10-south-park" tvg-logo="https://10play.com.au/ip/s3/2023/08/03/41a79ba6a28f011b379ea68d41c28ea0-1253591.png" group-title="Au" , South Park
+https://i.mjh.nz/10-south-park.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-masterchef" tvg-id="mjh-10-masterchef" tvg-logo="https://10play.com.au/ip/s3/2022/09/02/3fff1b47f7c01770b7f0f319770d5362-1177252.png" group-title="Au" , MasterChef
+https://i.mjh.nz/10-masterchef.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-survivor" tvg-id="mjh-10-survivor" tvg-logo="https://10play.com.au/ip/s3/2022/09/15/3855800fca8733d543c38d055f716437-1180229.png" group-title="Au" , Survivor
+https://i.mjh.nz/10-survivor.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-haunt-tv" tvg-id="mjh-10-haunt-tv" tvg-logo="https://10play.com.au/ip/s3/2023/07/12/8cb62aeb9de0e12611b68059325da0f3-1248632.png" group-title="Au" , Haunt TV
+https://i.mjh.nz/10-haunt-tv.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-true-stories" tvg-id="mjh-10-true-stories" tvg-logo="https://10play.com.au/ip/s3/2022/09/22/bf31efb3f5efe008cc774909b0cef282-1181809.png" group-title="Au" , True Stories
+https://i.mjh.nz/10-true-stories.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-buzzrbaywatch" tvg-id="mjh-10-buzzrbaywatch" tvg-logo="https://10play.com.au/ip/s3/2022/09/15/28b62659b93d3b56e4e1c8c2485a202b-1180224.png" group-title="Au" , Baywatch
+https://i.mjh.nz/10-buzzrbaywatch.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-prisoner" tvg-id="mjh-10-prisoner" tvg-logo="https://10play.com.au/ip/s3/2022/09/26/b6430b0f79d6b4c9fc5c6ea295bbae03-1182444.png" group-title="Au" , Prisoner
+https://i.mjh.nz/10-prisoner.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-merlin" tvg-id="mjh-10-merlin" tvg-logo="https://10play.com.au/ip/s3/2022/12/05/34e0e28792f221c0b9a2629966e5bd28-1202917.png" group-title="Au" , Merlin
+https://i.mjh.nz/10-merlin.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-rush" tvg-id="mjh-10-rush" tvg-logo="https://10play.com.au/ip/s3/2024/05/17/8bebf40ecadaa2add04ca64c7084e74a-1315159.png" group-title="Au" , Offspring
+https://i.mjh.nz/10-rush.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-wipeout-xtra" tvg-id="mjh-10-wipeout-xtra" tvg-logo="https://10play.com.au/ip/s3/2022/09/15/19002c0580466ba5115780f598a09ddf-1180219.png" group-title="Au" , Wipeout Xtra
+https://i.mjh.nz/10-wipeout-xtra.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-action-and-adventure" tvg-id="mjh-10-action-and-adventure" tvg-logo="https://10play.com.au/ip/s3/2023/07/31/692875006a27f9580330b073e080e129-1252238.png" group-title="Au" , Xtreme Adventure
+https://i.mjh.nz/10-action-and-adventure.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-moviesphere" tvg-id="mjh-10-moviesphere" tvg-logo="https://10play.com.au/ip/s3/2022/12/05/6bb229de8fcf96e206e99ca455fc2267-1202912.png" group-title="Au" , Moviesphere
+https://i.mjh.nz/10-moviesphere.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-bold-and-the-beautiful-classics" tvg-id="mjh-10-bold-and-the-beautiful-classics" tvg-logo="https://10play.com.au/ip/s3/2023/07/12/24ba98d5a9e362a7eab844cf00b5abec-1248618.png" group-title="Au" , Bold and The Beautiful Classics
+https://i.mjh.nz/10-bold-and-the-beautiful-classics.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-beverlyhills90210" tvg-id="mjh-10-beverlyhills90210" tvg-logo="https://10play.com.au/ip/s3/2023/06/28/d39a21f0c9a2c64970150768b266ecea-1246001.png" group-title="Au" , Beverly Hills 90210
+https://i.mjh.nz/10-beverlyhills90210.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-diagnosismurder" tvg-id="mjh-10-diagnosismurder" tvg-logo="https://10play.com.au/ip/s3/2023/06/28/5f85fc3d794a167630b935cb639abcc3-1246005.png" group-title="Au" , Diagnosis Murder
+https://i.mjh.nz/10-diagnosismurder.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-dynasty" tvg-id="mjh-10-dynasty" tvg-logo="https://10play.com.au/ip/s3/2023/06/28/36fb189fc45e71ab01e7e6d22997a24c-1246037.png" group-title="Au" , Dynasty
+https://i.mjh.nz/10-dynasty.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-gunsmoke" tvg-id="mjh-10-gunsmoke" tvg-logo="https://10play.com.au/ip/s3/2023/06/30/ea73899442aeda0541d39da7187fd0ae-1246615.png" group-title="Au" , Gunsmoke
+https://i.mjh.nz/10-gunsmoke.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-hawaii_five_o" tvg-id="mjh-10-hawaii_five_o" tvg-logo="https://10play.com.au/ip/s3/2023/06/28/78cc7f7508fbc3e0d23f28e209d006cd-1246034.png" group-title="Au" , Hawaii Five-O
+https://i.mjh.nz/10-hawaii_five_o.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-matlock" tvg-id="mjh-10-matlock" tvg-logo="https://10play.com.au/ip/s3/2023/06/28/05e69d623cea2b74ae1637c40e02cdd7-1246022.png" group-title="Au" , Matlock
+https://i.mjh.nz/10-matlock.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-mission_impossible" tvg-id="mjh-10-mission_impossible" tvg-logo="https://10play.com.au/ip/s3/2023/07/11/dc85f360d18a325975756c734eb17b69-1248406.png" group-title="Au" , Mission Impossible
+https://i.mjh.nz/10-mission_impossible.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-the-graham-norton-show" tvg-id="mjh-10-the-graham-norton-show" tvg-logo="https://10play.com.au/ip/s3/2023/07/12/bcb38e1591564d24894210f4abd02423-1248623.png" group-title="Au" , The Graham Norton Show
+https://i.mjh.nz/10-the-graham-norton-show.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-bondi-rescue" tvg-id="mjh-10-bondi-rescue" tvg-logo="https://10play.com.au/ip/s3/2023/07/12/7ddc52ba7477554f24bd1ad819b1d593-1248612.png" group-title="Au" , Bondi Rescue
+https://i.mjh.nz/10-bondi-rescue.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-medical-emergency" tvg-id="mjh-10-medical-emergency" tvg-logo="https://10play.com.au/ip/s3/2023/06/28/115b6796134f1e983f41c224c31cc7c9-1246084.png" group-title="Au" , Medical Emergency
+https://i.mjh.nz/10-medical-emergency.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-forty-eight-hours" tvg-id="mjh-10-forty-eight-hours" tvg-logo="https://10play.com.au/ip/s3/2023/06/28/7dd910de29f31095b69e17f1da8f3f0e-1245997.png" group-title="Au" , 48 Hours
+https://i.mjh.nz/10-forty-eight-hours.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-americas-next-top-model" tvg-id="mjh-10-americas-next-top-model" tvg-logo="https://10play.com.au/ip/s3/2023/06/28/8db83f030cafec640ddec14612d03daa-1246018.png" group-title="Au" , America's Next Top Model
+https://i.mjh.nz/10-americas-next-top-model.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-survivor-us" tvg-id="mjh-10-survivor-us" tvg-logo="https://10play.com.au/ip/s3/2023/08/02/fbd539f7b8a328cd9e59fd0294dab559-1253157.png" group-title="Au" , Survivor US
+https://i.mjh.nz/10-survivor-us.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-becker" tvg-id="mjh-10-becker" tvg-logo="https://10play.com.au/ip/s3/2023/06/28/e0449ed804aaacb1de64f87d94912dd3-1246030.png" group-title="Au" , Becker
+https://i.mjh.nz/10-becker.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-happy_days" tvg-id="mjh-10-happy_days" tvg-logo="https://10play.com.au/ip/s3/2023/06/28/060cdfa84b76c04285a91099d1dc5cfb-1246013.png" group-title="Au" , Happy Days
+https://i.mjh.nz/10-happy_days.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-i_love_lucy" tvg-id="mjh-10-i_love_lucy" tvg-logo="https://10play.com.au/ip/s3/2023/06/30/ee75d540e6cdda6df5044708edda6500-1246588.png" group-title="Au" , I Love Lucy
+https://i.mjh.nz/10-i_love_lucy.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-the-drew-barrymore-show" tvg-id="mjh-10-the-drew-barrymore-show" tvg-logo="https://10play.com.au/ip/s3/2023/08/03/eece7451006c61ee8e02e78803b8eb86-1253586.png" group-title="Au" , The-Drew-Barrymore-Show
+https://i.mjh.nz/10-the-drew-barrymore-show.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-the-brady-bunch" tvg-id="mjh-10-the-brady-bunch" tvg-logo="https://10play.com.au/ip/s3/2023/08/03/a27d1f1ddc3025771eb7e345eaa1d903-1253587.png" group-title="Au" , The Brady Bunch
+https://i.mjh.nz/10-the-brady-bunch.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-the-twilight-zone" tvg-id="mjh-10-the-twilight-zone" tvg-logo="https://10play.com.au/ip/s3/2023/06/28/c60c6fcc024a5e14036e5f446aa81eae-1246026.png" group-title="Au" , The Twilight Zone
+https://i.mjh.nz/10-the-twilight-zone.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-geckotv" tvg-id="mjh-10-geckotv" tvg-logo="https://10play.com.au/ip/s3/2023/02/23/b81bfc3f4737696257ef326b0e68208e-1219777.png" group-title="Au" , Gecko TV
+https://i.mjh.nz/10-geckotv.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-mtvmusic" tvg-id="mjh-10-mtvmusic" tvg-logo="https://10play.com.au/ip/s3/2024/04/12/27471e2f3a01a86607bcf858e2d16b2f-1308443.png" group-title="Au" , MTV Best Of...
+https://i.mjh.nz/10-mtvmusic.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-seasonal_movies" tvg-id="mjh-10-seasonal_movies" tvg-logo="https://10play.com.au/ip/s3/2024/04/01/86e45216ee9df7d873e393dccb379d94-1306209.png" group-title="Au" , Thriller Movies
+https://i.mjh.nz/10-seasonal_movies.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-thedoghouse" tvg-id="mjh-10-thedoghouse" tvg-logo="https://10play.com.au/ip/s3/2023/09/20/ccfe09abf555996e0901c1ebe582d65a-1265121.png" group-title="Au" , The Dog House
+https://i.mjh.nz/10-thedoghouse.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-worldoffootball" tvg-id="mjh-10-worldoffootball" tvg-logo="https://10play.com.au/ip/s3/2023/10/19/b347c9daf6c559ff203e458fbfb4640a-1273094.png" group-title="Au" , World Of Football
+https://i.mjh.nz/10-worldoffootball.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-mtvgeordieshore" tvg-id="mjh-10-mtvgeordieshore" tvg-logo="https://10play.com.au/ip/s3/2024/02/19/bf63da35ab6b66b6af03dec697ccaf99-1298650.png" group-title="Au" , MTV Geordie Shore
+https://i.mjh.nz/10-mtvgeordieshore.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-mtvridiculousness" tvg-id="mjh-10-mtvridiculousness" tvg-logo="https://10play.com.au/ip/s3/2024/02/19/6a7d740896d031b59c9d33d0e6dff544-1298686.png" group-title="Au" , MTV Ridiculousness
+https://i.mjh.nz/10-mtvridiculousness.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-avatarthelastairbender" tvg-id="mjh-10-avatarthelastairbender" tvg-logo="https://10play.com.au/ip/s3/2024/02/04/5e9071aea057cfcfdcdd037756ca5e11-1295985.png" group-title="Au" , Avatar: The Last Airbender
+https://i.mjh.nz/10-avatarthelastairbender.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-ghost_hunters" tvg-id="mjh-10-ghost_hunters" tvg-logo="https://10play.com.au/ip/s3/2024/02/20/6a0f5d5002748886ee7b1936f996a304-1298978.png" group-title="Au" , Ghost Hunters
+https://i.mjh.nz/10-ghost_hunters.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-crime_hunters" tvg-id="mjh-10-crime_hunters" tvg-logo="https://10play.com.au/ip/s3/2024/03/06/cb69de15e7b8989a218ad25b7f6547ef-1301820.png" group-title="Au" , Crime Hunters
+https://i.mjh.nz/10-crime_hunters.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-comedy_dynamics" tvg-id="mjh-10-comedy_dynamics" tvg-logo="https://10play.com.au/ip/s3/2024/03/06/53be2a0f763150b5d2e7bd72e93bc370-1301814.png" group-title="Au" , Comedy Dynamics
+https://i.mjh.nz/10-comedy_dynamics.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-nickelodeon_popup_shell" tvg-id="mjh-10-nickelodeon_popup_shell" tvg-logo="https://10play.com.au/ip/s3/2024/03/27/632cbe7248b9376e4bc182efa5fca9fc-1305577.png" group-title="Au" , Dora The Explorer
+https://i.mjh.nz/10-nickelodeon_popup_shell.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-10-good_chef_bad_chef" tvg-id="mjh-10-good_chef_bad_chef" tvg-logo="https://10play.com.au/ip/s3/2024/04/15/7b0ed9d334694c671a73527302182339-1308941.png" group-title="Au" , Good Chef Bad Chef
+https://i.mjh.nz/10-good_chef_bad_chef.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-tvsn-shopping-au" tvg-id="mjh-tvsn-shopping-au" tvg-logo="https://i.mjh.nz/.images/tvsn-shopping.png" tvg-chno="16" group-title="Au" , TVSN Shopping
+https://i.mjh.nz/tvsn-shopping-au.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-abc-kids" tvg-id="mjh-abc-kids" tvg-logo="https://i.mjh.nz/.images/abc-kids.png" tvg-chno="22" group-title="Au" , ABC Kids
+https://c.mjh.nz/abc-kids.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-abc-tv-plus" tvg-id="mjh-abc-tv-plus" tvg-logo="https://i.mjh.nz/.images/abc-tv-plus.png" tvg-chno="22" group-title="Au" , ABC TV Plus
+https://c.mjh.nz/abc-tv-plus.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-abc-me" tvg-id="mjh-abc-me" tvg-logo="https://i.mjh.nz/.images/abc-me.png" tvg-chno="23" group-title="Au" , ABC ME
+https://c.mjh.nz/abc-me.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-abc-news" tvg-id="mjh-abc-news" tvg-logo="https://i.mjh.nz/.images/abc-news.png" tvg-chno="24" group-title="Au" , ABC NEWS
+https://c.mjh.nz/abc-news.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-abc-90-seconds-news" tvg-id="mjh-abc-90-seconds-news" tvg-logo="https://live-production.wcms.abc-cdn.net.au/144a0dacebeb9f616c1fcd637e3b2cf2?impolicy=wcms_crop_resize&cropH=630&cropW=1119&xPos=10&yPos=0&width=862&height=485" group-title="Au" , ABC News in 90 Seconds
+https://c.mjh.nz/news_in_90_seconds|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-abc-90-seconds-business" tvg-id="mjh-abc-90-seconds-business" tvg-logo="https://live-production.wcms.abc-cdn.net.au/ae76d32898cca0be596b7f23c1bd41f2?impolicy=wcms_crop_resize&cropH=630&cropW=1119&xPos=10&yPos=0&width=862&height=485" group-title="Au" , ABC Business in 90 Seconds
+https://c.mjh.nz/business_in_90_seconds|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-abc-90-seconds-sport" tvg-id="mjh-abc-90-seconds-sport" tvg-logo="https://live-production.wcms.abc-cdn.net.au/646cb8a032c847ec21c3de0de881e4cb?impolicy=wcms_crop_resize&cropH=630&cropW=1119&xPos=10&yPos=0&width=862&height=485" group-title="Au" , ABC Sport in 90 Seconds
+https://c.mjh.nz/sport_in_90_seconds|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-abc-90-seconds-weather" tvg-id="mjh-abc-90-seconds-weather" tvg-logo="https://live-production.wcms.abc-cdn.net.au/d376e49724862f104d044ff6467f85d8?impolicy=wcms_crop_resize&cropH=630&cropW=1119&xPos=10&yPos=0&width=862&height=485" group-title="Au" , ABC Weather in 90 Seconds
+https://c.mjh.nz/weather_in_90_seconds|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-sbs" tvg-id="mjh-sbs" tvg-logo="https://i.mjh.nz/.images/sbs.png" tvg-chno="3" group-title="Au" , SBS
+https://i.mjh.nz/sbs.m3u8|x-forwarded-for=110.33.122.75&user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-sbs-viceland" tvg-id="mjh-sbs-viceland" tvg-logo="https://i.mjh.nz/.images/sbs-viceland.png" tvg-chno="31" group-title="Au" , SBS VICELAND
+https://i.mjh.nz/sbs-viceland.m3u8|x-forwarded-for=110.33.122.75&user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-sbs-food" tvg-id="mjh-sbs-food" tvg-logo="https://i.mjh.nz/.images/sbs-food.png" tvg-chno="33" group-title="Au" , SBS Food
+https://i.mjh.nz/sbs-food.m3u8|x-forwarded-for=110.33.122.75&user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-sbs-world-movies" tvg-id="mjh-sbs-world-movies" tvg-logo="https://i.mjh.nz/.images/sbs-world-movies.png" tvg-chno="32" group-title="Au" , SBS World Movies
+https://i.mjh.nz/sbs-world-movies.m3u8|x-forwarded-for=110.33.122.75&user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-sbs-nitv" tvg-id="mjh-sbs-nitv" tvg-logo="https://i.mjh.nz/.images/sbs-nitv.png" tvg-chno="34" group-title="Au" , NITV
+https://i.mjh.nz/sbs-nitv.m3u8|x-forwarded-for=110.33.122.75&user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-sbs-world-watch" tvg-id="mjh-sbs-world-watch" tvg-logo="https://i.mjh.nz/.images/sbs-world-watch.png" tvg-chno="35" group-title="Au" , SBS World Watch
+https://i.mjh.nz/sbs-world-watch.m3u8|x-forwarded-for=110.33.122.75&user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-sbs-chill" tvg-id="mjh-sbs-chill" tvg-logo="https://i.mjh.nz/.images/sbs-chill.png" group-title="Au" , SBS Chill
+https://i.mjh.nz/sbs-chill.m3u8|x-forwarded-for=110.33.122.75&user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-sky-racing-1" tvg-id="mjh-sky-racing-1" tvg-logo="https://i.mjh.nz/.images/sky-racing-1.png" group-title="Au" , Sky Racing #1
+https://i.mjh.nz/sky-racing-1.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-sky-racing-2" tvg-id="mjh-sky-racing-2" tvg-logo="https://i.mjh.nz/.images/sky-racing-2.png" group-title="Au" , Sky Racing #2
+https://i.mjh.nz/sky-racing-2.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-sky-racing-thoroughbred" tvg-id="mjh-sky-racing-thoroughbred" tvg-logo="https://i.mjh.nz/.images/sky-racing-thoroughbred.png" group-title="Au" , Sky Racing - Thoroughbred Central
+https://i.mjh.nz/sky-racing-thoroughbred.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-bloomberg-tv" tvg-id="mjh-bloomberg-tv" tvg-logo="https://i.mjh.nz/.images/bloomberg-tv.png" group-title="Au" , Bloomberg TV
+https://i.mjh.nz/bloomberg-tv.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-sky-news-now" tvg-id="mjh-sky-news-now" tvg-logo="https://i.mjh.nz/.images/sky-news-now.png" group-title="Au" , Sky News Now
+https://i.mjh.nz/sky-news-now.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-good-dot" tvg-id="mjh-good-dot" tvg-logo="https://i.mjh.nz/.images/good-dot.png" group-title="Au" , GOOD.
+https://i.mjh.nz/good-dot.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-gecko" tvg-id="mjh-gecko" tvg-logo="https://i.mjh.nz/.images/gecko.png" tvg-chno="17" group-title="Au" , gecko
+https://i.mjh.nz/gecko.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-redbull-tv" tvg-id="mjh-redbull-tv" tvg-logo="https://i.mjh.nz/.images/redbull-tv.png" group-title="World" , Redbull TV
+https://i.mjh.nz/redbull-tv.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-al-jazeera" tvg-id="mjh-al-jazeera" tvg-logo="https://i.mjh.nz/.images/al-jazeera.png" group-title="World" , Al Jazeera
+https://i.mjh.nz/al-jazeera.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-name="mjh-channel-news-asia" tvg-id="mjh-channel-news-asia" tvg-logo="https://i.mjh.nz/.images/channel-news-asia.png" group-title="World" , Channel News Asia (CNA)
+https://i.mjh.nz/channel-news-asia.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="https://live.fanmingming.com/tv/美亚电影台.png" group-title="电影",美亚电影台
+http://50.7.238.114:8278/meiyamovie_twn/playlist.m3u8?tid=ME9E6301165163011651&ct=19249&tsum=c2c246af848b424b68e94e4b35cfa337
+
+#EXTINF:-1 tvg-id="斗鱼电影-美剧1" tvg-name="斗鱼电影-美剧1" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影-美剧1.png" group-title="电影",斗鱼电影-美剧1
+http://epg.112114.xyz/douyu/9249162
+
+#EXTINF:-1 tvg-id="斗鱼电影-美剧-恐怖" tvg-name="斗鱼电影-美剧-恐怖" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影-美剧-恐怖.png" group-title="电影",斗鱼电影-美剧-恐怖
+http://epg.112114.xyz/douyu/1165374
+
+#EXTINF:-1 tvg-id="斗鱼电影-美剧-恐怖2" tvg-name="斗鱼电影-美剧-恐怖2" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影-美剧-恐怖2.png" group-title="电影",斗鱼电影-美剧-恐怖2
+http://epg.112114.xyz/douyu/263824
+
+#EXTINF:-1 tvg-id="港剧-鬼" tvg-name="港剧-鬼" tvg-logo="https://live.fanmingming.com/tv/港剧-鬼.png" group-title="电影",港剧-鬼
+https://epg.pw/stream/30259fe0c62a1df39306558bc708c149f09092ea7dd815bf49fd3ad3bc6d73be.ctv
+
+#EXTINF:-1 tvg-id="斗鱼电影-港剧-科幻" tvg-name="斗鱼电影-港剧-科幻" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影-港剧-科幻.png" group-title="电影",斗鱼电影-港剧-科幻
+http://epg.112114.xyz/douyu/74374
+
+#EXTINF:-1 tvg-id="斗鱼电影-港剧-国语1" tvg-name="斗鱼电影-港剧-国语1" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影-港剧-国语1.png" group-title="电影",斗鱼电影-港剧-国语1
+http://epg.112114.xyz/douyu/3928
+
+#EXTINF:-1 tvg-id="斗鱼电影-港剧-国语2" tvg-name="斗鱼电影-港剧-国语2" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影-港剧-国语2.png" group-title="电影",斗鱼电影-港剧-国语2
+http://epg.112114.xyz/douyu/434971
+
+#EXTINF:-1 tvg-id="动漫" tvg-name="动漫" tvg-logo="https://live.fanmingming.com/tv/动漫.png" group-title="电影",动漫
+http://epg.112114.xyz/douyu/5187099
+
+#EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="电影",东方影视
+http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dianshijuhd/3000/index.m3u8?&encrypt=
+
+#EXTINF:-1 tvg-id="河北影视剧" tvg-name="河北影视剧" tvg-logo="https://live.fanmingming.com/tv/河北影视剧.png" group-title="电影",河北影视剧
+http://cyz32.livehbindex.hbcatv.cn/live/50000020b87d48a78fc68b1f51e8a926.m3u8?bitrate=2300&pt=5
+
+#EXTINF:-1 tvg-id="movie" tvg-name="movie" tvg-logo="https://live.fanmingming.com/tv/movie.png" group-title="电影",movie
+http://n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="天映频道" tvg-name="天映频道" tvg-logo="https://live.fanmingming.com/tv/天映频道.png" group-title="电影",天映频道
+http://210.210.155.35/dr9445/h/h14/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Celestial_Movies
+
+#EXTINF:-1 tvg-id="好萊塢電影" tvg-name="好萊塢電影" tvg-logo="https://live.fanmingming.com/tv/好萊塢電影.png" group-title="电影",好萊塢電影
+http://50.7.238.114:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
+
+#EXTINF:-1 tvg-id="星卫电影" tvg-name="星卫电影" tvg-logo="https://live.fanmingming.com/tv/星卫电影.png" group-title="电影",星卫电影
+http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
+
+#EXTINF:-1 tvg-id="龍祥電影" tvg-name="龍祥電影" tvg-logo="https://live.fanmingming.com/tv/龍祥電影.png" group-title="电影",龍祥電影
+http://50.7.238.114:8278/cb7a1fec69/playlist.m3u8?ct=18335&tid=md05ab4002297&tsum=ebe4254ee0e073c2d3c9789e679c00a5
+
+#EXTINF:-1 tvg-id="東森電影" tvg-name="東森電影" tvg-logo="https://live.fanmingming.com/tv/東森電影.png" group-title="电影",東森電影
+http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
+
+#EXTINF:-1 tvg-id="百视电影" tvg-name="百视电影" tvg-logo="https://live.fanmingming.com/tv/百视电影.png" group-title="电影",百视电影
+https://bp-caster.bestv.com.cn/91/3/video.m3u8
+
+#EXTINF:-1 tvg-id="湖南电影" tvg-name="湖南电影" tvg-logo="https://live.fanmingming.com/tv/湖南电影.png" group-title="电影",湖南电影
+http://180.97.247.27/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43029/index.m3u8
+
+#EXTINF:-1 tvg-id="三立INEWS" tvg-name="三立INEWS" tvg-logo="https://live.fanmingming.com/tv/三立INEWS.png" group-title="台湾",三立INEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+
+#EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻.png" group-title="台湾",寰宇新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+
+#EXTINF:-1 tvg-id="东森财经新闻" tvg-name="东森财经新闻" tvg-logo="https://live.fanmingming.com/tv/东森财经新闻.png" group-title="台湾",东森财经新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+
+#EXTINF:-1 tvg-id="运通财经F运通" tvg-name="运通财经F运通" tvg-logo="https://live.fanmingming.com/tv/运通财经F运通.png" group-title="台湾",运通财经F运通
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
+
+#EXTINF:-1 tvg-id="信大" tvg-name="信大" tvg-logo="https://live.fanmingming.com/tv/信大.png" group-title="台湾",信大
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
+
+#EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://live.fanmingming.com/tv/中视新闻.png" group-title="台湾",中视新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+
+#EXTINF:-1 tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="https://live.fanmingming.com/tv/民视新闻.png" group-title="台湾",民视新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+
+#EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="台湾",台视新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+
+#EXTINF:-1 tvg-id="天才冲冲冲" tvg-name="天才冲冲冲" tvg-logo="https://live.fanmingming.com/tv/天才冲冲冲.png" group-title="台湾",天才冲冲冲
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+
+#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/中天新闻.png" group-title="台湾",中天新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+
+#EXTINF:-1 tvg-id="大爱" tvg-name="大爱" tvg-logo="https://live.fanmingming.com/tv/大爱.png" group-title="台湾",大爱
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
+
+#EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="台湾",TVBS新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+
+#EXTINF:-1 tvg-id="三立NEWS+" tvg-name="三立NEWS+" tvg-logo="https://live.fanmingming.com/tv/三立NEWS+.png" group-title="台湾",三立NEWS+
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+
+#EXTINF:-1 tvg-id="TBSNEWS" tvg-name="TBSNEWS" tvg-logo="https://live.fanmingming.com/tv/TBSNEWS.png" group-title="台湾",TBSNEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
+
+#EXTINF:-1 tvg-id="大爱2" tvg-name="大爱2" tvg-logo="https://live.fanmingming.com/tv/大爱2.png" group-title="台湾",大爱2
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
+
+#EXTINF:-1 tvg-id="国家地理野生" tvg-name="国家地理野生" tvg-logo="https://live.fanmingming.com/tv/国家地理野生.png" group-title="台湾",国家地理野生
+http://198.16.100.90:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
+
+#EXTINF:-1 tvg-name="TVBS-Asia" tvg-id="TVBSAsia.tw" tvg-logo="https://i.imgur.com/4S1rkhm.png" group-title="台湾",TVBS-Asia
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Taiwan Plus TV" tvg-id="TaiwanPlusTV.tw" tvg-logo="https://i.imgur.com/SfcZyqm.png" group-title="台湾",Taiwan Plus TV
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
+
+#EXTINF:-1 tvg-name="DaAi 1" tvg-id="DaAi1.tw" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="台湾",DaAi 1
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+
+#EXTINF:-1 tvg-name="DaAi 2" tvg-id="DaAi2.tw" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="台湾",DaAi 2
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+
+#EXTINF:-1 tvg-name="Dali TV" tvg-id="DaliTV.tw" tvg-logo="https://i.imgur.com/pFIMLsA.png" group-title="台湾",Dali TV
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+
+#EXTINF:-1 tvg-name="JapaNews24" tvg-id="JapaNews24.jp" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqOMUS0adc02h6Py293xPnF0r8QrwOQRLKuVkVFz0Q=s176-c-k-c0x00ffffff-no-rj" group-title="日本",JapaNews24
+https://ythls.armelin.one/channel/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8
+
+#EXTINF:-1 tvg-name="NHK World-Japan" tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="日本",NHK World-Japan
+http://203.162.235.41:13092
+
+#EXTINF:-1 tvg-name="NHK World Premium" tvg-id="NHKWorldPremium.jp" tvg-logo="https://i.imgur.com/4ESi2La.png" group-title="日本",NHK World Premium
+https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8
+
+#EXTINF:-1 tvg-name="Pokemon Kids TV Japanese" tvg-id="PokemonKidsTVJapanese.jp" tvg-logo="https://i.imgur.com/SwheroL.jpg" group-title="日本",Pokemon Kids TV Japanese
+https://ythls.armelin.one/channel/UCH0JJtRn2syic5xxavMKQ4Q.m3u8
+
+#EXTINF:-1 tvg-name="NHK BS" tvg-id="NHKBS.jp" tvg-logo="https://i.imgur.com/t0uZcSR.png" group-title="日本",NHK BS
+http://203.162.235.41:20099
+
+#EXTINF:-1 tvg-name="NHK General TV" tvg-id="NHKGeneralTV.jp" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="日本",NHK General TV
+http://203.162.235.41:12091
+
+#EXTINF:-1 tvg-id="NHKWORLD" tvg-name="NHKWORLD" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png" group-title="日本",NHKWORLD
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+
+#EXTINF:-1 tvg-name="Tokyo Shibuya「东京涩谷」" tvg-id="Tokyo Shibuya「东京涩谷」" group-title="日本",Tokyo Shibuya「东京涩谷」
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
+
+#EXTINF:-1 tvg-id="地雷战" tvg-name="地雷战" tvg-logo="" group-title="老电影",地雷战
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a90c788a458e40508615d711b8aae1af/850.m3u8
+
+#EXTINF:-1 tvg-id="地道战" tvg-name="地道战" tvg-logo="" group-title="老电影",地道战
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/312e39c68cc441feb79d1c2d7e16cbbd/850.m3u8
+
+#EXTINF:-1 tvg-id="跟踪追击" tvg-name="跟踪追击" tvg-logo="" group-title="老电影",跟踪追击
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/059096230b4e46c0b5d4929ff98435d0/850.m3u8
+
+#EXTINF:-1 tvg-id="红牡丹" tvg-name="红牡丹" tvg-logo="" group-title="老电影",红牡丹
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/921b8081b58b4c2f81fb233b6c8e89ac/850.m3u8
+
+#EXTINF:-1 tvg-id="侦察兵" tvg-name="侦察兵" tvg-logo="" group-title="老电影",侦察兵
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/3e4727a0fca34aa8b9774472a4908eaf/850.m3u8
+
+#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="老电影",三进山城
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ee157540ff2540ada0250edf3f6a3e0a/850.m3u8
+
+#EXTINF:-1 tvg-id="红色娘子军" tvg-name="红色娘子军" tvg-logo="" group-title="老电影",红色娘子军
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/2ea3b03b3a414303b830f92579243001/850.m3u8
+
+#EXTINF:-1 tvg-id="五朵金花" tvg-name="五朵金花" tvg-logo="" group-title="老电影",五朵金花
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ae639196cf3949368c1b05776bb1d4fa/850.m3u8
+
+#EXTINF:-1 tvg-id="洪湖赤卫队" tvg-name="洪湖赤卫队" tvg-logo="" group-title="老电影",洪湖赤卫队
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/2a58afdece3342eaac927648a2cccabd/850.m3u8
+
+#EXTINF:-1 tvg-id="狼牙山五壮士" tvg-name="狼牙山五壮士" tvg-logo="" group-title="老电影",狼牙山五壮士
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/71c649af833c43a9b61e4f5c913bbd6b/850.m3u8
+
+#EXTINF:-1 tvg-id="战上海" tvg-name="战上海" tvg-logo="" group-title="老电影",战上海
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/e84b188d1bf7484fb4907d99827cbd45/850.m3u8
+
+#EXTINF:-1 tvg-id="铁道游击队" tvg-name="铁道游击队" tvg-logo="" group-title="老电影",铁道游击队
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/46d8664dacad4dbb9c790256688048dc/850.m3u8
+
+#EXTINF:-1 tvg-id="红孩子" tvg-name="红孩子" tvg-logo="" group-title="老电影",红孩子
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/bf55b84744d64eeaaedc5ea603855597/850.m3u8
+
+#EXTINF:-1 tvg-id="宝葫芦的秘密" tvg-name="宝葫芦的秘密" tvg-logo="" group-title="老电影",宝葫芦的秘密
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/866474add7224067877bed430d9380ab/850.m3u8
+
+#EXTINF:-1 tvg-id="董存瑞" tvg-name="董存瑞" tvg-logo="" group-title="老电影",董存瑞
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b657281ba44a4b279f55ec860c12543b/850.m3u8
+
+#EXTINF:-1 tvg-id="地下尖兵" tvg-name="地下尖兵" tvg-logo="" group-title="老电影",地下尖兵
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/188d5706e5774f06850e06e4f181c4bd/850.m3u8
+
+#EXTINF:-1 tvg-id="小兵张嘎" tvg-name="小兵张嘎" tvg-logo="" group-title="老电影",小兵张嘎
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/d8c05f3ca36d48e6b1997b523e885c5c/850.m3u8
+
+#EXTINF:-1 tvg-id="闪闪的红星" tvg-name="闪闪的红星" tvg-logo="" group-title="老电影",闪闪的红星
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b90fcf1a5425479baf3a045282a1f263/850.m3u8
+
+#EXTINF:-1 tvg-id="祖国的花朵" tvg-name="祖国的花朵" tvg-logo="" group-title="老电影",祖国的花朵
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ef10a9a9b1534fe38fd4fdfdac1ed493/850.m3u8
+
+#EXTINF:-1 tvg-id="花儿朵朵" tvg-name="花儿朵朵" tvg-logo="" group-title="老电影",花儿朵朵
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/53a44d8649024b58b69f4468b922b8f0/850.m3u8
+
+#EXTINF:-1 tvg-id="上甘岭" tvg-name="上甘岭" tvg-logo="" group-title="老电影",上甘岭
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c91f7aae9b8b4c578a7d9ecdf94b9dca/850.m3u8
+
+#EXTINF:-1 tvg-id="平原游击队" tvg-name="平原游击队" tvg-logo="" group-title="老电影",平原游击队
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/180ef18dec9a4edeb9d2b520d57cfc7f/850.m3u8
+
+#EXTINF:-1 tvg-id="神秘的旅伴" tvg-name="神秘的旅伴" tvg-logo="" group-title="老电影",神秘的旅伴
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ef95b9f13e2c47b882b67ef52139786a/850.m3u8
+
+#EXTINF:-1 tvg-id="前哨" tvg-name="前哨" tvg-logo="" group-title="老电影",前哨
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/1e9c4ffe4002492484c0f50235299759/850.m3u8
+
+#EXTINF:-1 tvg-id="刘三姐" tvg-name="刘三姐" tvg-logo="" group-title="老电影",刘三姐
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/680e102dc8614632862cf49a236def6e/850.m3u8
+
+#EXTINF:-1 tvg-id="赛虎" tvg-name="赛虎" tvg-logo="" group-title="老电影",赛虎
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/34505162ca0848af9e23d33ed4018088/850.m3u8
+
+#EXTINF:-1 tvg-id="犬王" tvg-name="犬王" tvg-logo="" group-title="老电影",犬王
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/08d97be6d296434098297a505e2f05b5/850.m3u8
+
+#EXTINF:-1 tvg-id="特别攻击队" tvg-name="特别攻击队" tvg-logo="" group-title="老电影",特别攻击队
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c69eed95a2cd4752850bcac109151e37/850.m3u8
+
+#EXTINF:-1 tvg-id="举起手来-追击阿多丸" tvg-name="举起手来-追击阿多丸" tvg-logo="" group-title="老电影",举起手来-追击阿多丸
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/a1093561ad0a4071b68eeae884de01e7/850.m3u8
+
+#EXTINF:-1 tvg-id="鸡毛信" tvg-name="鸡毛信" tvg-logo="" group-title="老电影",鸡毛信
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/41fcf9fefcf247c78e2d64c7af5d6edd/850.m3u8
+
+#EXTINF:-1 tvg-id="马兰花" tvg-name="马兰花" tvg-logo="" group-title="老电影",马兰花
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c89d105b9661464bb8c5c5f46977f6c4/850.m3u8
+
+#EXTINF:-1 tvg-id="南征北战" tvg-name="南征北战" tvg-logo="" group-title="老电影",南征北战
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9557e1bfd91b4319975dfeffcc44d6b7/850.m3u8
+
+#EXTINF:-1 tvg-id="羊城暗哨" tvg-name="羊城暗哨" tvg-logo="" group-title="老电影",羊城暗哨
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/215e7a6713884bcab8cc461e245531af/850.m3u8
+
+#EXTINF:-1 tvg-id="冰山上的来客" tvg-name="冰山上的来客" tvg-logo="" group-title="老电影",冰山上的来客
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c86d45b176d642738dabf9da7361653b/850.m3u8
+
+#EXTINF:-1 tvg-id="51号兵站" tvg-name="51号兵站" tvg-logo="" group-title="老电影",51号兵站
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fa6557276d644b5ea399956a6bf94e59/850.m3u8
+
+#EXTINF:-1 tvg-id="红日" tvg-name="红日" tvg-logo="" group-title="老电影",红日
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/f2ee6e22cd894be1bc8c90b19f47ae2e/850.m3u8
+
+#EXTINF:-1 tvg-id="战火中的青春" tvg-name="战火中的青春" tvg-logo="" group-title="老电影",战火中的青春
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/be0d797e3b494f5fa1cb6d48d29643f3/850.m3u8
+
+#EXTINF:-1 tvg-id="英雄虎胆" tvg-name="英雄虎胆" tvg-logo="" group-title="老电影",英雄虎胆
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b7fcd0d4ebb045fe8e653ee71b4ef8fc/850.m3u8
+
+#EXTINF:-1 tvg-id="突破乌江" tvg-name="突破乌江" tvg-logo="" group-title="老电影",突破乌江
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/bf8ccfff8bc949a6a2ed6bcda45eb4e2/850.m3u8
+
+#EXTINF:-1 tvg-id="苦菜花" tvg-name="苦菜花" tvg-logo="" group-title="老电影",苦菜花
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ec47d310d888464f8446af5e6e04ded8/850.m3u8
+
+#EXTINF:-1 tvg-id="智取华山" tvg-name="智取华山" tvg-logo="" group-title="老电影",智取华山
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ef243e3fa20544df9cc24b72ace8efa0/850.m3u8
+
+#EXTINF:-1 tvg-id="渡江侦察记" tvg-name="渡江侦察记" tvg-logo="" group-title="老电影",渡江侦察记
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/d708e9c64aa34519af5490a793756c38/850.m3u8
+
+#EXTINF:-1 tvg-id="奇袭" tvg-name="奇袭" tvg-logo="" group-title="老电影",奇袭
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ac8b28fb66104aa7a5e3cd5a10ea986b/850.m3u8
+
+#EXTINF:-1 tvg-id="小花" tvg-name="小花" tvg-logo="" group-title="老电影",小花
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/f97fb71bff5947ddaf905cc121c42ee4/850.m3u8
+
+#EXTINF:-1 tvg-id="少林寺" tvg-name="少林寺" tvg-logo="" group-title="老电影",少林寺
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8af9ff377238407e927e597a1af47788/850.m3u8
+
+#EXTINF:-1 tvg-id="英雄儿女" tvg-name="英雄儿女" tvg-logo="" group-title="老电影",英雄儿女
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/479d044b7a3d465fa3a5b850d36b219c/850.m3u8
+
+#EXTINF:-1 tvg-id="大气层消失" tvg-name="大气层消失" tvg-logo="" group-title="老电影",大气层消失
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/45122e56521f49b68020e3e66bc28ce8/850.m3u8
+
+#EXTINF:-1 tvg-id="霹雳贝贝" tvg-name="霹雳贝贝" tvg-logo="" group-title="老电影",霹雳贝贝
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/7accc94d5590415284af5db904e4be5a/850.m3u8
+
+#EXTINF:-1 tvg-id="泉水叮咚" tvg-name="泉水叮咚" tvg-logo="" group-title="老电影",泉水叮咚
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8b039f6988a04ca8b086d35031a77204/850.m3u8
+
+#EXTINF:-1 tvg-id="柳堡的故事" tvg-name="柳堡的故事" tvg-logo="" group-title="老电影",柳堡的故事
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/706b979b8a934aaab677a11c410bb119/850.m3u8
+
+#EXTINF:-1 tvg-id="李双双" tvg-name="李双双" tvg-logo="" group-title="老电影",李双双
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/bac928d747984ed3bd17550879522f89/850.m3u8
+
+#EXTINF:-1 tvg-id="大闹天宫" tvg-name="大闹天宫" tvg-logo="" group-title="老电影",大闹天宫
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a57c9e5e1696486e97d229a3ddb13749/850.m3u8
+
+#EXTINF:-1 tvg-id="柳毅传书" tvg-name="柳毅传书" tvg-logo="" group-title="老电影",柳毅传书
+http://hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/2ee71b96a3574889829e17d70b3f3c02/2000.m3u8
+
+#EXTINF:-1 tvg-id="卷席筒" tvg-name="卷席筒" tvg-logo="" group-title="老电影",卷席筒
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8bebd13583e341e1b9d9e1180d36aaaa/850.m3u8
+
+#EXTINF:-1 tvg-id="铡刀下的红梅" tvg-name="铡刀下的红梅" tvg-logo="" group-title="老电影",铡刀下的红梅
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/6f0817bfbedd42c682d9152abd5402a3/850.m3u8
+
+#EXTINF:-1 tvg-id="墙头马上" tvg-name="墙头马上" tvg-logo="" group-title="老电影",墙头马上
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c45285c6b2ac46a58d49c9351b18e369/850.m3u8
+
+#EXTINF:-1 tvg-id="花为媒" tvg-name="花为媒" tvg-logo="" group-title="老电影",花为媒
+http://hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/48da40a19746409997717371a80fd9e6/2000.m3u8
+
+#EXTINF:-1 tvg-id="牛郎织女" tvg-name="牛郎织女" tvg-logo="" group-title="老电影",牛郎织女
+http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/adc6931516694659a7b54176e4b38299/2000.m3u8
+
+#EXTINF:-1 tvg-id="梁山伯与祝英台" tvg-name="梁山伯与祝英台" tvg-logo="" group-title="老电影",梁山伯与祝英台
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/427eb50cc6844d47bcd35d2fac737a0a/850.m3u8
+
+#EXTINF:-1 tvg-id="铁弓缘" tvg-name="铁弓缘" tvg-logo="" group-title="老电影",铁弓缘
+http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/e19f3238b0ba4849aa50d6b7f1118ab9/2000.m3u8
+
+#EXTINF:-1 tvg-id="碧玉簪" tvg-name="碧玉簪" tvg-logo="" group-title="老电影",碧玉簪
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9e90b1a2872b476b8a4f9882f9b63cde/850.m3u8
+
+#EXTINF:-1 tvg-id="野猪林" tvg-name="野猪林" tvg-logo="" group-title="老电影",野猪林
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/d2ddcbd8cdba4473a541687e683c1aca/850.m3u8
+
+#EXTINF:-1 tvg-id="五女拜寿" tvg-name="五女拜寿" tvg-logo="" group-title="老电影",五女拜寿
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c38771a355214e97a855c213693a1153/850.m3u8
+
+#EXTINF:-1 tvg-id="杜鹃山01" tvg-name="杜鹃山01" tvg-logo="" group-title="老电影",杜鹃山01
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f468a89e0e394a718474523afe37c702/850.m3u8
+
+#EXTINF:-1 tvg-id="杜鹃山02" tvg-name="杜鹃山02" tvg-logo="" group-title="老电影",杜鹃山02
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/5f76957927c5421e8bd75d0f53c95e4a/850.m3u8
+
+#EXTINF:-1 tvg-id="红灯记" tvg-name="红灯记" tvg-logo="" group-title="老电影",红灯记
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/84fd88d42e65413a90b9a8b54b685fde/850.m3u8
+
+#EXTINF:-1 tvg-id="奇袭白虎团" tvg-name="奇袭白虎团" tvg-logo="" group-title="老电影",奇袭白虎团
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8d476d0de4a343bd8c77c8a83331fc16/850.m3u8
+
+#EXTINF:-1 tvg-id="智取威虎山" tvg-name="智取威虎山" tvg-logo="" group-title="老电影",智取威虎山
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b59e746e354d4c0baefaca2f031eec25/850.m3u8
+
+#EXTINF:-1 tvg-id="沙家浜" tvg-name="沙家浜" tvg-logo="" group-title="老电影",沙家浜
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/6241c3f25a9a4dda9b05b9ba185500e0/850.m3u8
+
+#EXTINF:-1 tvg-id="红楼梦01" tvg-name="红楼梦01" tvg-logo="" group-title="老电影",红楼梦01
+http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/f66e935661b44ff6b80a290537d5d204/2000.m3u8
+
+#EXTINF:-1 tvg-id="红楼梦02" tvg-name="红楼梦02" tvg-logo="" group-title="老电影",红楼梦02
+http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/10470613ead24f5cb435137b5f39ab98/2000.m3u8
+
+#EXTINF:-1 tvg-id="追鱼" tvg-name="追鱼" tvg-logo="" group-title="老电影",追鱼
+http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/3515e586d18743be99eb6cc2004cb995/2000.m3u8
+
+#EXTINF:-1 tvg-id="穆桂英大战洪州" tvg-name="穆桂英大战洪州" tvg-logo="" group-title="老电影",穆桂英大战洪州
+http://hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/aaa5a373d97a47d1bc95b1418b672b33/2000.m3u8
+
+#EXTINF:-1 tvg-id="秦香莲" tvg-name="秦香莲" tvg-logo="" group-title="老电影",秦香莲
+http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/f8daefadadef41989225543875268a70/2000.m3u8
+
+#EXTINF:-1 tvg-id="王老虎抢亲" tvg-name="王老虎抢亲" tvg-logo="" group-title="老电影",王老虎抢亲
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/3b6ae81ae49f4c72b0c977023565c762/850.m3u8
+
+#EXTINF:-1 tvg-id="女驸马" tvg-name="女驸马" tvg-logo="" group-title="老电影",女驸马
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ba29b790f8ec435ba94fc072558431f0/850.m3u8
+
+#EXTINF:-1 tvg-id="天仙配" tvg-name="天仙配" tvg-logo="" group-title="老电影",天仙配
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1cd056751daf430a943e63e6428c40d7/850.m3u8
+
+#EXTINF:-1 tvg-id="李二嫂改嫁01" tvg-name="李二嫂改嫁01" tvg-logo="" group-title="老电影",李二嫂改嫁01
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/90846f6758524d78997aad89df8c37e0/850.m3u8
+
+#EXTINF:-1 tvg-id="李二嫂改嫁02" tvg-name="李二嫂改嫁02" tvg-logo="" group-title="老电影",李二嫂改嫁02
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/47a9c8216d344c2dd45f11949dbbecb5/850.m3u8
+
+#EXTINF:-1 tvg-id="林海雪原" tvg-name="林海雪原" tvg-logo="" group-title="老电影",林海雪原
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/5023f1dcc73b4090962ee31e017fb8e3/850.m3u8
+
+#EXTINF:-1 tvg-id="万水千山" tvg-name="万水千山" tvg-logo="" group-title="老电影",万水千山
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8804d527d9d94b818b42624730203fa9/850.m3u8
+
+#EXTINF:-1 tvg-id="孙悟空三打白骨精" tvg-name="孙悟空三打白骨精" tvg-logo="" group-title="老电影",孙悟空三打白骨精
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/1e34b7a2f93d4efeaf7a583409b270cc/850.m3u8
+
+#EXTINF:-1 tvg-id="巴黎圣母院" tvg-name="巴黎圣母院" tvg-logo="" group-title="老电影",巴黎圣母院
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/dd86918aafb042c5b51584ffcf5b0e00/850.m3u8
+
+#EXTINF:-1 tvg-id="罗密欧与朱丽叶" tvg-name="罗密欧与朱丽叶" tvg-logo="" group-title="老电影",罗密欧与朱丽叶
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/95193e30bd454e77bc59a140f4e32ad2/850.m3u8
+
+#EXTINF:-1 tvg-id="魂断蓝桥" tvg-name="魂断蓝桥" tvg-logo="" group-title="老电影",魂断蓝桥
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/7fc704c5b2e04e65bab92b3986883ab3/850.m3u8
+
+#EXTINF:-1 tvg-id="茜茜公主" tvg-name="茜茜公主" tvg-logo="" group-title="老电影",茜茜公主
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ffa8a73877194632b0278898f297d07b/850.m3u8
+
+#EXTINF:-1 tvg-id="出水芙蓉" tvg-name="出水芙蓉" tvg-logo="" group-title="老电影",出水芙蓉
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/28f9967b04984830b3a1f6fb27561000/850.m3u8
+
+#EXTINF:-1 tvg-id="桂河大桥" tvg-name="桂河大桥" tvg-logo="" group-title="老电影",桂河大桥
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b125a3edccb34637b336cb867e8a5d5d/850.m3u8
+
+#EXTINF:-1 tvg-id="人与自然" tvg-name="人与自然" tvg-logo="" group-title="人与自然",人与自然
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba82b807b221193/1200.m3u8
+
+#EXTINF:-1 tvg-id="自然传奇" tvg-name="自然传奇" tvg-logo="" group-title="人与自然",自然传奇
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/81a1ad3a661748bfb8560c92d38204ca/1200.m3u8
+
+#EXTINF:-1 tvg-id="探索发现" tvg-name="探索发现" tvg-logo="" group-title="人与自然",探索发现
+http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/25137bd7c4494128bf0cba271974928f/1200.m3u8
+
+#EXTINF:-1 tvg-id="地理中国" tvg-name="地理中国" tvg-logo="" group-title="人与自然",地理中国
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c6baf6f74bb944aeacee1065ea72c798/1200.m3u8
+
+#EXTINF:-1 tvg-id="大太平洋" tvg-name="大太平洋" tvg-logo="" group-title="人与自然",大太平洋
+http://hls.cntv.kcdnvip.com/asp/hls/4000/0303000a/3/default/2d7f4eeaed2e4ad080bcf324eb21bc0d/4000.m3u8
+
+#EXTINF:-1 tvg-id="飞碟之谜01" tvg-name="飞碟之谜01" tvg-logo="" group-title="人与自然",飞碟之谜01
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f0a47e155d32450daa1d36a04fd7d262/2000.m3u8
+
+#EXTINF:-1 tvg-id="飞碟之谜02" tvg-name="飞碟之谜02" tvg-logo="" group-title="人与自然",飞碟之谜02
+https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d2454bbb542d4613a9db478dab2addfd/2000.m3u8
+
+#EXTINF:-1 tvg-id="远方的家" tvg-name="远方的家" tvg-logo="" group-title="人与自然",远方的家
+http://hls.cntv.kcdnvip.com/asp/hls/4000/0303000a/3/default/162d7e29c3da4aab82ad47b6e2d9e7b4/4000.m3u8
+
+#EXTINF:-1 tvg-id="美丽中国说" tvg-name="美丽中国说" tvg-logo="" group-title="人与自然",美丽中国说
+http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8cdd688b04e4495ba1635e218419d6f9/4000.m3u8
+
+#EXTINF:-1 tvg-id="美丽中国自然" tvg-name="美丽中国自然" tvg-logo="" group-title="人与自然",美丽中国自然
+http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/51d937a0201f4c78a5878b4b37089f3b/4000.m3u8
+
+#EXTINF:-1 tvg-id="航拍中国第一季" tvg-name="航拍中国第一季" tvg-logo="" group-title="人与自然",航拍中国第一季
+http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8edf3fb6a69148ea9a7dc0b5a9d99fdb/4000.m3u8
+
+#EXTINF:-1 tvg-id="航拍中国第二季" tvg-name="航拍中国第二季" tvg-logo="" group-title="人与自然",航拍中国第二季
+http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8
+
+#EXTINF:-1 tvg-id="航拍中国第三季" tvg-name="航拍中国第三季" tvg-logo="" group-title="人与自然",航拍中国第三季
+http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/18a8a559464448dbaf60d33913e09aea/1200.m3u8
+
+#EXTINF:-1 tvg-id="中国村庄" tvg-name="中国村庄" tvg-logo="" group-title="人与自然",中国村庄
+http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/93fc12dbf14241c18c23da104fbade23/4000.m3u8
+
+#EXTINF:-1 tvg-id="梵净山" tvg-name="梵净山" tvg-logo="" group-title="人与自然",梵净山
+http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/b9571df1181c4422a83901e827519fe6/4000.m3u8
+
+#EXTINF:-1 tvg-id="地球脉动第一季" tvg-name="地球脉动第一季" tvg-logo="" group-title="人与自然",地球脉动第一季
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/7a3423af02284c3db48b854ab646993f/850.m3u8
+
+#EXTINF:-1 tvg-id="乘着火车看中国" tvg-name="乘着火车看中国" tvg-logo="" group-title="人与自然",乘着火车看中国
+http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/2b0f397ed9d948eb9fac38d73cde241b/4000.m3u8
+
+#EXTINF:-1 tvg-id="动物世界" tvg-name="动物世界" tvg-logo="" group-title="人与自然",动物世界
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/71d7dce230b74c1b9e35b41e837ffc5f/1200.m3u8
+
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="人与自然",一片住着熊的森林3
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/fd1e9f94afe948efafaa28a882661620/1200.m3u8
+
+#EXTINF:-1 tvg-id="与野生动物为邻" tvg-name="与野生动物为邻" tvg-logo="" group-title="人与自然",与野生动物为邻
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d25931bed86a49d4afb8780771797c19/1200.m3u8
+
+#EXTINF:-1 tvg-id="丛林之王美洲豹" tvg-name="丛林之王美洲豹" tvg-logo="" group-title="人与自然",丛林之王美洲豹
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/bbb1037a32ad44cf8bab822eda34bc86/1200.m3u8
+
+#EXTINF:-1 tvg-id="丛林勇士之战(上)" tvg-name="丛林勇士之战(上)" tvg-logo="" group-title="人与自然",丛林勇士之战(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2550722b92464a749fa7aceb52e22895/1200.m3u8
+
+#EXTINF:-1 tvg-id="丛林勇士之战(下)" tvg-name="丛林勇士之战(下)" tvg-logo="" group-title="人与自然",丛林勇士之战(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c02959d3f2b14d3abf05ec017179c964/1200.m3u8
+
+#EXTINF:-1 tvg-id="从幼狮到狮王(上)" tvg-name="从幼狮到狮王(上)" tvg-logo="" group-title="人与自然",从幼狮到狮王(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0eb0c51f46ed4171a9923dd6a9703c45/1200.m3u8
+
+#EXTINF:-1 tvg-id="从幼狮到狮王(下)" tvg-name="从幼狮到狮王(下)" tvg-logo="" group-title="人与自然",从幼狮到狮王(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/a7510a06ef494458a0f23a8a6b6918d3/1200.m3u8
+
+#EXTINF:-1 tvg-id="传奇母狮" tvg-name="传奇母狮" tvg-logo="" group-title="人与自然",传奇母狮
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c550dc54139b4e619e7d4a1c1ab69e56/1200.m3u8
+
+#EXTINF:-1 tvg-id="兄弟情深(上)" tvg-name="兄弟情深(上)" tvg-logo="" group-title="人与自然",兄弟情深(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0700de47ebc74232bc9f5c5c178aa488/1200.m3u8
+
+#EXTINF:-1 tvg-id="兄弟情深(下)" tvg-name="兄弟情深(下)" tvg-logo="" group-title="人与自然",兄弟情深(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/30a35b521af54f1a88d74f7215ece1d3/1200.m3u8
+
+#EXTINF:-1 tvg-id="兄弟捕猎联盟" tvg-name="兄弟捕猎联盟" tvg-logo="" group-title="人与自然",兄弟捕猎联盟
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0b85d990df5c4f7fae663dc595a084bd/1200.m3u8
+
+#EXTINF:-1 tvg-id="充满爱的象家族1" tvg-name="充满爱的象家族1" tvg-logo="" group-title="人与自然",充满爱的象家族1
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/4bd5e30e25244ef1a622142a1053d8c0/1200.m3u8
+
+#EXTINF:-1 tvg-id="充满爱的象家族2" tvg-name="充满爱的象家族2" tvg-logo="" group-title="人与自然",充满爱的象家族2
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0acf5b4f7fc248f1bd0801b768375fd6/1200.m3u8
+
+#EXTINF:-1 tvg-id="兽语如歌" tvg-name="兽语如歌" tvg-logo="" group-title="人与自然",兽语如歌
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9d7bcf3e27d941cfac2e6c933ad9b543/1200.m3u8
+
+#EXTINF:-1 tvg-id="冬季传说雪鸮" tvg-name="冬季传说雪鸮" tvg-logo="" group-title="人与自然",冬季传说雪鸮
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/e76b2116c4514daea844fbdd1b56ab5d/1200.m3u8
+
+#EXTINF:-1 tvg-id="冬日雪鸮" tvg-name="冬日雪鸮" tvg-logo="" group-title="人与自然",冬日雪鸮
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1a7b439474b6439c91dc5d5b2cb736d4/1200.m3u8
+
+#EXTINF:-1 tvg-id="冰天雪地北极熊(上)" tvg-name="冰天雪地北极熊(上)" tvg-logo="" group-title="人与自然",冰天雪地北极熊(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/15dd2029621a498d9c4d3eb2982285e7/1200.m3u8
+
+#EXTINF:-1 tvg-id="冰天雪地北极熊(下)" tvg-name="冰天雪地北极熊(下)" tvg-logo="" group-title="人与自然",冰天雪地北极熊(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/360e77812fc84a8198e85a60f087b049/1200.m3u8
+
+#EXTINF:-1 tvg-id="冰雪世界狼女王(上)" tvg-name="冰雪世界狼女王(上)" tvg-logo="" group-title="人与自然",冰雪世界狼女王(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/640f926df6fb4f398d40c8b254248750/1200.m3u8
+
+#EXTINF:-1 tvg-id="冰雪世界狼女王(下)" tvg-name="冰雪世界狼女王(下)" tvg-logo="" group-title="人与自然",冰雪世界狼女王(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d85457ff45154ff8bdf74e73422e99a4/1200.m3u8
+
+#EXTINF:-1 tvg-id="冰雪王国里的童话" tvg-name="冰雪王国里的童话" tvg-logo="" group-title="人与自然",冰雪王国里的童话
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3b291326cf2648cd8119f5facf9e3b92/1200.m3u8
+
+#EXTINF:-1 tvg-id="冷静与柔情" tvg-name="冷静与柔情" tvg-logo="" group-title="人与自然",冷静与柔情
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/554c1b879dc646d4ab188dfd58a0f02f/1200.m3u8
+
+#EXTINF:-1 tvg-id="凯门鳄的奇妙旅程" tvg-name="凯门鳄的奇妙旅程" tvg-logo="" group-title="人与自然",凯门鳄的奇妙旅程
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/aba970eff8be48beb339a2ad027592cf/1200.m3u8
+
+#EXTINF:-1 tvg-id="动物与计谋" tvg-name="动物与计谋" tvg-logo="" group-title="人与自然",动物与计谋
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/403122f54ee5492fa9e5d2b8f0087ad2/1200.m3u8
+
+#EXTINF:-1 tvg-id="动物冠军俱乐部" tvg-name="动物冠军俱乐部" tvg-logo="" group-title="人与自然",动物冠军俱乐部
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/65227347336749ffa373661cac985952/1200.m3u8
+
+#EXTINF:-1 tvg-id="动物冠军竞技场(上)" tvg-name="动物冠军竞技场(上)" tvg-logo="" group-title="人与自然",动物冠军竞技场(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/cf107046774d4db5a1ac622e880488e2/1200.m3u8
+
+#EXTINF:-1 tvg-id="动物冠军竞技场(下)" tvg-name="动物冠军竞技场(下)" tvg-logo="" group-title="人与自然",动物冠军竞技场(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9f1dc957013c4765a96b86c1890e4ae2/1200.m3u8
+
+#EXTINF:-1 tvg-id="动物宝宝闯天涯(上)" tvg-name="动物宝宝闯天涯(上)" tvg-logo="" group-title="人与自然",动物宝宝闯天涯(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/e1f91fe01a9b4b24834a0a6e4b309bb2/1200.m3u8
+
+#EXTINF:-1 tvg-id="动物宝宝闯天涯(下)" tvg-name="动物宝宝闯天涯(下)" tvg-logo="" group-title="人与自然",动物宝宝闯天涯(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d5937591787941518b5a1390f7a1e792/1200.m3u8
+
+#EXTINF:-1 tvg-id="动物搏击赛" tvg-name="动物搏击赛" tvg-logo="" group-title="人与自然",动物搏击赛
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/22ef116331af49a782d42488e396837e/1200.m3u8
+
+#EXTINF:-1 tvg-id="动物搏击运动会" tvg-name="动物搏击运动会" tvg-logo="" group-title="人与自然",动物搏击运动会
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0f74c44316a34ea482ecae43f5c12fa8/1200.m3u8
+
+#EXTINF:-1 tvg-id="动物父母有梦想(上)" tvg-name="动物父母有梦想(上)" tvg-logo="" group-title="人与自然",动物父母有梦想(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f069e600b3584765840f34e9d641919a/1200.m3u8
+
+#EXTINF:-1 tvg-id="动物父母有梦想(下)" tvg-name="动物父母有梦想(下)" tvg-logo="" group-title="人与自然",动物父母有梦想(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1c1df6f1bff5454a9570693475f920ef/1200.m3u8
+
+#EXTINF:-1 tvg-id="动物界捕食奇观" tvg-name="动物界捕食奇观" tvg-logo="" group-title="人与自然",动物界捕食奇观
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5215de3e2a7b41009ed1ded1f29fea40/1200.m3u8
+
+#EXTINF:-1 tvg-id="动物的海底宫殿" tvg-name="动物的海底宫殿" tvg-logo="" group-title="人与自然",动物的海底宫殿
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0929798fce744530b14a6add96afcdf3/1200.m3u8
+
+#EXTINF:-1 tvg-id="动物霓裳羽衣之妙" tvg-name="动物霓裳羽衣之妙" tvg-logo="" group-title="人与自然",动物霓裳羽衣之妙
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b4aea8cd185c4126a37aa6e92d179f82/1200.m3u8
+
+#EXTINF:-1 tvg-id="勇挑重担的矮獴(上)" tvg-name="勇挑重担的矮獴(上)" tvg-logo="" group-title="人与自然",勇挑重担的矮獴(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8ef930c154a446d0a831d2dd93698fd2/1200.m3u8
+
+#EXTINF:-1 tvg-id="勇挑重担的矮獴(下)" tvg-name="勇挑重担的矮獴(下)" tvg-logo="" group-title="人与自然",勇挑重担的矮獴(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d9ffce5e83824939ab9bb66502778bd9/1200.m3u8
+
+#EXTINF:-1 tvg-id="勇敢的王者之心" tvg-name="勇敢的王者之心" tvg-logo="" group-title="人与自然",勇敢的王者之心
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d37b12d09c4144f0a59560f18ff6508a/1200.m3u8
+
+#EXTINF:-1 tvg-id="勇敢的长颈鹿(上)" tvg-name="勇敢的长颈鹿(上)" tvg-logo="" group-title="人与自然",勇敢的长颈鹿(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8a9d50517baa443b82b3e4c9e0078351/1200.m3u8
+
+#EXTINF:-1 tvg-id="勇敢的长颈鹿(下)" tvg-name="勇敢的长颈鹿(下)" tvg-logo="" group-title="人与自然",勇敢的长颈鹿(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/773b3e9df72f4834b85c46e0f5b038fb/1200.m3u8
+
+#EXTINF:-1 tvg-id="勇闯包围圈" tvg-name="勇闯包围圈" tvg-logo="" group-title="人与自然",勇闯包围圈
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3af15ad56d1640fab9a1a065402b3b76/1200.m3u8
+
+#EXTINF:-1 tvg-id="勇闯螃蟹岛" tvg-name="勇闯螃蟹岛" tvg-logo="" group-title="人与自然",勇闯螃蟹岛
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3bba8da0b6c54771aa02b579ba75f8e7/1200.m3u8
+
+#EXTINF:-1 tvg-id="勇闯都市丛林" tvg-name="勇闯都市丛林" tvg-logo="" group-title="人与自然",勇闯都市丛林
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/221e94ad951d4001b106d3c5af785537/1200.m3u8
+
+#EXTINF:-1 tvg-id="勤奋的捕食者" tvg-name="勤奋的捕食者" tvg-logo="" group-title="人与自然",勤奋的捕食者
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/4793c8276c184d03bc3ba5e9b6dc9610/1200.m3u8
+
+#EXTINF:-1 tvg-id="北极熊之光(上)" tvg-name="北极熊之光(上)" tvg-logo="" group-title="人与自然",北极熊之光(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9df8189c94b24b8b8bb6c69e448cc936/1200.m3u8
+
+#EXTINF:-1 tvg-id="北极熊之光(下)" tvg-name="北极熊之光(下)" tvg-logo="" group-title="人与自然",北极熊之光(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ca1fabcc21d64b1f8cc933844830fcc5/1200.m3u8
+
+#EXTINF:-1 tvg-id="北极熊的冒险之旅(上)" tvg-name="北极熊的冒险之旅(上)" tvg-logo="" group-title="人与自然",北极熊的冒险之旅(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/e1b4b7a8beb3459bbd44f505a3fcc99c/1200.m3u8
+
+#EXTINF:-1 tvg-id="北极熊的冒险之旅(下)" tvg-name="北极熊的冒险之旅(下)" tvg-logo="" group-title="人与自然",北极熊的冒险之旅(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9ab29267ff5b4b2b99fdb74d1b9fec55/1200.m3u8
+
+#EXTINF:-1 tvg-id="北极熊路在何方" tvg-name="北极熊路在何方" tvg-logo="" group-title="人与自然",北极熊路在何方
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/38321222144945faa76d79c7785346a6/1200.m3u8
+
+#EXTINF:-1 tvg-id="南美野生世界1" tvg-name="南美野生世界1" tvg-logo="" group-title="人与自然",南美野生世界1
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/35eac4ae4e024654b845f5c7b2221d15/1200.m3u8
+
+#EXTINF:-1 tvg-id="南美野生世界2" tvg-name="南美野生世界2" tvg-logo="" group-title="人与自然",南美野生世界2
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9c743ea1e41f4bf585fb1470c9575c0d/1200.m3u8
+
+#EXTINF:-1 tvg-id="南美野生世界3" tvg-name="南美野生世界3" tvg-logo="" group-title="人与自然",南美野生世界3
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/68caf99e50bc496fb478b0ed8f4b421a/1200.m3u8
+
+#EXTINF:-1 tvg-id="原野逐梦记" tvg-name="原野逐梦记" tvg-logo="" group-title="人与自然",原野逐梦记
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/01fcf61e12c242bd81dc5aca38b6f183/1200.m3u8
+
+#EXTINF:-1 tvg-id="变形记" tvg-name="变形记" tvg-logo="" group-title="人与自然",变形记
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c88fd67847314d1ab20524c9fd94d555/1200.m3u8
+
+#EXTINF:-1 tvg-id="古老的活化石恒河鳄(上)" tvg-name="古老的活化石恒河鳄(上)" tvg-logo="" group-title="人与自然",古老的活化石恒河鳄(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f8c9f1b5ac454c9a9ec5fda21c62b926/1200.m3u8
+
+#EXTINF:-1 tvg-id="古老的活化石恒河鳄(下)" tvg-name="古老的活化石恒河鳄(下)" tvg-logo="" group-title="人与自然",古老的活化石恒河鳄(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/966f8103448c4dcdabee095eeb340451/1200.m3u8
+
+#EXTINF:-1 tvg-id="可爱的海獭(上)" tvg-name="可爱的海獭(上)" tvg-logo="" group-title="人与自然",可爱的海獭(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/340266a6b3ff421fa174208845f56fef/1200.m3u8
+
+#EXTINF:-1 tvg-id="可爱的海獭(下)" tvg-name="可爱的海獭(下)" tvg-logo="" group-title="人与自然",可爱的海獭(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ef9b2898e92146d29a2e926ce1107eac/1200.m3u8
+
+#EXTINF:-1 tvg-id="呵护" tvg-name="呵护" tvg-logo="" group-title="人与自然",呵护
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3e2d88a89cd9464e89f3b4b6353db194/1200.m3u8
+
+#EXTINF:-1 tvg-id="团结的水豚家族" tvg-name="团结的水豚家族" tvg-logo="" group-title="人与自然",团结的水豚家族
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/51e9c38303624369a0ba257163a5528f/1200.m3u8
+
+#EXTINF:-1 tvg-id="大力士捕鱼记" tvg-name="大力士捕鱼记" tvg-logo="" group-title="人与自然",大力士捕鱼记
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1bcefb1f860746ebbbfe7f969c3a84ea/1200.m3u8
+
+#EXTINF:-1 tvg-id="大地骄子" tvg-name="大地骄子" tvg-logo="" group-title="人与自然",大地骄子
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b08d6ad2f22047bd93af89955db5ce46/1200.m3u8
+
+#EXTINF:-1 tvg-id="大水獭回归的故事" tvg-name="大水獭回归的故事" tvg-logo="" group-title="人与自然",大水獭回归的故事
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0e114c18fa084fe58238307c66506675/1200.m3u8
+
+#EXTINF:-1 tvg-id="大水獭桑丘的故事(上)" tvg-name="大水獭桑丘的故事(上)" tvg-logo="" group-title="人与自然",大水獭桑丘的故事(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ffea8bb4f0a04e53a82dab943e32bfb1/1200.m3u8
+
+#EXTINF:-1 tvg-id="大水獭桑丘的故事(下)" tvg-name="大水獭桑丘的故事(下)" tvg-logo="" group-title="人与自然",大水獭桑丘的故事(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9934a6c232264addaf109ac76f21e7da/1200.m3u8
+
+#EXTINF:-1 tvg-id="大猫们的世界" tvg-name="大猫们的世界" tvg-logo="" group-title="人与自然",大猫们的世界
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/830375ed0f54449e8e369edc9635e329/1200.m3u8
+
+#EXTINF:-1 tvg-id="大猫传奇" tvg-name="大猫传奇" tvg-logo="" group-title="人与自然",大猫传奇
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/6976a5d0ae0d4426bbd94bc1dd8f44a9/1200.m3u8
+
+#EXTINF:-1 tvg-id="大猫和邻居们(上)" tvg-name="大猫和邻居们(上)" tvg-logo="" group-title="人与自然",大猫和邻居们(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/84359a09aab544b184a40865454e0b0a/1200.m3u8
+
+#EXTINF:-1 tvg-id="大猫和邻居们(下)" tvg-name="大猫和邻居们(下)" tvg-logo="" group-title="人与自然",大猫和邻居们(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2c4bc4b10e7d408a8de9c9e3012f64ca/1200.m3u8
+
+#EXTINF:-1 tvg-id="大猫归来" tvg-name="大猫归来" tvg-logo="" group-title="人与自然",大猫归来
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8c13b8463ee54e93a0a0ccc33dab33ef/1200.m3u8
+
+#EXTINF:-1 tvg-id="大猫榜中榜(上)" tvg-name="大猫榜中榜(上)" tvg-logo="" group-title="人与自然",大猫榜中榜(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/e5c95f6d2f9447e2bbb0b2bba952e062/1200.m3u8
+
+#EXTINF:-1 tvg-id="大猫榜中榜(下)" tvg-name="大猫榜中榜(下)" tvg-logo="" group-title="人与自然",大猫榜中榜(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9f813ed35c264d4ea10e57516dafe5d6/1200.m3u8
+
+#EXTINF:-1 tvg-id="大猫猎手训练营" tvg-name="大猫猎手训练营" tvg-logo="" group-title="人与自然",大猫猎手训练营
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/a08d9451f00a451682973c99b503dd6a/1200.m3u8
+
+#EXTINF:-1 tvg-id="大象与羊的快乐生活" tvg-name="大象与羊的快乐生活" tvg-logo="" group-title="人与自然",大象与羊的快乐生活
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b72e3a49fdd44f36915d6cc59aa0a113/1200.m3u8
+
+#EXTINF:-1 tvg-id="大象与羊的神奇友情(上)" tvg-name="大象与羊的神奇友情(上)" tvg-logo="" group-title="人与自然",大象与羊的神奇友情(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/7689d02607d34fdb8ce22cc479e42e91/1200.m3u8
+
+#EXTINF:-1 tvg-id="大象与羊的神奇友情(下)" tvg-name="大象与羊的神奇友情(下)" tvg-logo="" group-title="人与自然",大象与羊的神奇友情(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8ab73d30adff4cfa8e5afda910387dfc/1200.m3u8
+
+#EXTINF:-1 tvg-id="大象的别样生活(上)" tvg-name="大象的别样生活(上)" tvg-logo="" group-title="人与自然",大象的别样生活(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f4e6615b73ce42aa805767845425078a/1200.m3u8
+
+#EXTINF:-1 tvg-id="大象的别样生活(下)" tvg-name="大象的别样生活(下)" tvg-logo="" group-title="人与自然",大象的别样生活(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f80446c8a43c4357af8680057ec1669f/1200.m3u8
+
+#EXTINF:-1 tvg-id="大象的秘密生活(上)" tvg-name="大象的秘密生活(上)" tvg-logo="" group-title="人与自然",大象的秘密生活(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/81f43884b4064750af230205752dbb63/1200.m3u8
+
+#EXTINF:-1 tvg-id="大象的秘密生活(下)" tvg-name="大象的秘密生活(下)" tvg-logo="" group-title="人与自然",大象的秘密生活(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/43e021f3a6dc4b6089c71afe80552fae/1200.m3u8
+
+#EXTINF:-1 tvg-id="奇异世界的动物们2" tvg-name="奇异世界的动物们2" tvg-logo="" group-title="人与自然",奇异世界的动物们2
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ef3ee1bb8ff946a9adf07486709883eb/1200.m3u8
+
+#EXTINF:-1 tvg-id="奇异世界的动物们3" tvg-name="奇异世界的动物们3" tvg-logo="" group-title="人与自然",奇异世界的动物们3
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/efa51c5e3af04df89e68606d75333080/1200.m3u8
+
+#EXTINF:-1 tvg-id="奇特动物的奇特遭遇(上)" tvg-name="奇特动物的奇特遭遇(上)" tvg-logo="" group-title="人与自然",奇特动物的奇特遭遇(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2b20f8ba9ae14d96b9907f59bb758595/1200.m3u8
+
+#EXTINF:-1 tvg-id="奇特动物的奇特遭遇(下)" tvg-name="奇特动物的奇特遭遇(下)" tvg-logo="" group-title="人与自然",奇特动物的奇特遭遇(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0ebab68eda084509b18c27982ecfb660/1200.m3u8
+
+#EXTINF:-1 tvg-id="奇迹发生的时刻" tvg-name="奇迹发生的时刻" tvg-logo="" group-title="人与自然",奇迹发生的时刻
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1dbbdbb87b8f410cbc0f3c742201cd7d/1200.m3u8
+
+#EXTINF:-1 tvg-id="如履薄冰的北极熊(上)" tvg-name="如履薄冰的北极熊(上)" tvg-logo="" group-title="人与自然",如履薄冰的北极熊(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f31953326cca4b5e9c5f7e285a5cddb7/1200.m3u8
+
+#EXTINF:-1 tvg-id="如履薄冰的北极熊(下)" tvg-name="如履薄冰的北极熊(下)" tvg-logo="" group-title="人与自然",如履薄冰的北极熊(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b6576aa2cd4e43a9a5ddc4af16695a28/1200.m3u8
+
+#EXTINF:-1 tvg-id="家有萌宝(五)" tvg-name="家有萌宝(五)" tvg-logo="" group-title="人与自然",家有萌宝(五)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/496e4c0e2de74aaf968651d447eeb12a/1200.m3u8
+
+#EXTINF:-1 tvg-id="家有萌宝1" tvg-name="家有萌宝1" tvg-logo="" group-title="人与自然",家有萌宝1
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/7c53f1554802430587ecc54b1cef1002/1200.m3u8
+
+#EXTINF:-1 tvg-id="家有萌宝2" tvg-name="家有萌宝2" tvg-logo="" group-title="人与自然",家有萌宝2
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/81f9af4e6a6f41daa48c6c0091e4d66b/1200.m3u8
+
+#EXTINF:-1 tvg-id="家有萌宝3" tvg-name="家有萌宝3" tvg-logo="" group-title="人与自然",家有萌宝3
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/fe463d857de5415daa72441ab0cdab7f/1200.m3u8
+
+#EXTINF:-1 tvg-id="家有萌宝4" tvg-name="家有萌宝4" tvg-logo="" group-title="人与自然",家有萌宝4
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/15d2240bbfc34785bfc2ab8147244466/1200.m3u8
+
+#EXTINF:-1 tvg-id="家有萌狗" tvg-name="家有萌狗" tvg-logo="" group-title="人与自然",家有萌狗
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0fb39f83b1764305bd0216f15b8ab88a/1200.m3u8
+
+#EXTINF:-1 tvg-id="小动物大猎手(上)" tvg-name="小动物大猎手(上)" tvg-logo="" group-title="人与自然",小动物大猎手(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c46a26d74f5b4da98f5c9d69f8218de0/1200.m3u8
+
+#EXTINF:-1 tvg-id="小动物大猎手(下)" tvg-name="小动物大猎手(下)" tvg-logo="" group-title="人与自然",小动物大猎手(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ef8ad1d36d9c4515a9e04443687a7f33/1200.m3u8
+
+#EXTINF:-1 tvg-id="小动物大英雄" tvg-name="小动物大英雄" tvg-logo="" group-title="人与自然",小动物大英雄
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/27818c0197e94415946b825b2b163e22/1200.m3u8
+
+#EXTINF:-1 tvg-id="小动物的森林童话" tvg-name="小动物的森林童话" tvg-logo="" group-title="人与自然",小动物的森林童话
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/321727074edc4cf69b5b205111569205/1200.m3u8
+
+#EXTINF:-1 tvg-id="小勇士闯天下" tvg-name="小勇士闯天下" tvg-logo="" group-title="人与自然",小勇士闯天下
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8737418de24a461f9785193bcbda0026/1200.m3u8
+
+#EXTINF:-1 tvg-id="小熊的故事1" tvg-name="小熊的故事1" tvg-logo="" group-title="人与自然",小熊的故事1
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d3c750e3481a4ca696898875f6e6dbf1/1200.m3u8
+
+#EXTINF:-1 tvg-id="小熊的故事2" tvg-name="小熊的故事2" tvg-logo="" group-title="人与自然",小熊的故事2
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3499a172820f47da988e5aaeb187ec29/1200.m3u8
+
+#EXTINF:-1 tvg-id="小熊的故事3" tvg-name="小熊的故事3" tvg-logo="" group-title="人与自然",小熊的故事3
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3564b5460bea444b8712fb1cb0a59c00/1200.m3u8
+
+#EXTINF:-1 tvg-id="小熊的梦幻森林1" tvg-name="小熊的梦幻森林1" tvg-logo="" group-title="人与自然",小熊的梦幻森林1
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b0f2b241c39c42beb732a5e73b5a9782/1200.m3u8
+
+#EXTINF:-1 tvg-id="小熊的梦幻森林2" tvg-name="小熊的梦幻森林2" tvg-logo="" group-title="人与自然",小熊的梦幻森林2
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b2e817cee1a7417ba34f062aa919ca02/1200.m3u8
+
+#EXTINF:-1 tvg-id="小熊的梦幻森林3" tvg-name="小熊的梦幻森林3" tvg-logo="" group-title="人与自然",小熊的梦幻森林3
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8bbcff92f2ce423bb2d822e0fb67657f/1200.m3u8
+
+#EXTINF:-1 tvg-id="小角马历险记" tvg-name="小角马历险记" tvg-logo="" group-title="人与自然",小角马历险记
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b7594a5bc3d241e3a8b95eac39ebd7e9/1200.m3u8
+
+#EXTINF:-1 tvg-id="小象和绵羊朋友(上)" tvg-name="小象和绵羊朋友(上)" tvg-logo="" group-title="人与自然",小象和绵羊朋友(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c69ca1ce229648ce86e97c0b86e67c58/1200.m3u8
+
+#EXTINF:-1 tvg-id="小象和绵羊朋友(下)" tvg-name="小象和绵羊朋友(下)" tvg-logo="" group-title="人与自然",小象和绵羊朋友(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/138e7ea321c94a86b4f939ccb00a75a9/1200.m3u8
+
+#EXTINF:-1 tvg-id="小鼠奇遇记" tvg-name="小鼠奇遇记" tvg-logo="" group-title="人与自然",小鼠奇遇记
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9417f7c1d9f2484c901d886245892130/1200.m3u8
+
+#EXTINF:-1 tvg-id="巨兽来了" tvg-name="巨兽来了" tvg-logo="" group-title="人与自然",巨兽来了
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1224d3b3e1ba410d8dc316f2f2ab1872/1200.m3u8
+
+#EXTINF:-1 tvg-id="巨藻林的守卫者" tvg-name="巨藻林的守卫者" tvg-logo="" group-title="人与自然",巨藻林的守卫者
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/432e7e692dc841bfaefb5e662de89bdc/1200.m3u8
+
+#EXTINF:-1 tvg-id="彩蛇之舞" tvg-name="彩蛇之舞" tvg-logo="" group-title="人与自然",彩蛇之舞
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/002334474c7c4b8b98bad237a7bdeb7b/1200.m3u8
+
+#EXTINF:-1 tvg-id="情满大草原1" tvg-name="情满大草原1" tvg-logo="" group-title="人与自然",情满大草原1
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/222ec6157bf34d8c9abd0e62ddae6ee1/1200.m3u8
+
+#EXTINF:-1 tvg-id="情满大草原2" tvg-name="情满大草原2" tvg-logo="" group-title="人与自然",情满大草原2
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8200031edc9f434583d9b3f738ac4448/1200.m3u8
+
+#EXTINF:-1 tvg-id="情满大草原3" tvg-name="情满大草原3" tvg-logo="" group-title="人与自然",情满大草原3
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0ab9b80f79884e22b6390b2deefdc571/1200.m3u8
+
+#EXTINF:-1 tvg-id="打造一只超级猫" tvg-name="打造一只超级猫" tvg-logo="" group-title="人与自然",打造一只超级猫
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ba966901198844d09399a354e203e6cb/1200.m3u8
+
+#EXTINF:-1 tvg-id="抢滩勇士(下)" tvg-name="抢滩勇士(下)" tvg-logo="" group-title="人与自然",抢滩勇士(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0d4351715b27425d87a926b964b6cdaf/1200.m3u8
+
+#EXTINF:-1 tvg-id="捕猎刹那间1" tvg-name="捕猎刹那间1" tvg-logo="" group-title="人与自然",捕猎刹那间1
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/6b222a92e2b9484f86121a558915ddb5/1200.m3u8
+
+#EXTINF:-1 tvg-id="捕猎刹那间2" tvg-name="捕猎刹那间2" tvg-logo="" group-title="人与自然",捕猎刹那间2
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/eb2cf087eae64ff9a40258bbbc1a92ba/1200.m3u8
+
+#EXTINF:-1 tvg-id="捕猎刹那间3" tvg-name="捕猎刹那间3" tvg-logo="" group-title="人与自然",捕猎刹那间3
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/799ea1ddb3db403484fe2421d4831287/1200.m3u8
+
+#EXTINF:-1 tvg-id="捕食一瞬间(上)" tvg-name="捕食一瞬间(上)" tvg-logo="" group-title="人与自然",捕食一瞬间(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/426cfdd1924a452b863c0cd52af6436b/1200.m3u8
+
+#EXTINF:-1 tvg-id="捕食一瞬间(下)" tvg-name="捕食一瞬间(下)" tvg-logo="" group-title="人与自然",捕食一瞬间(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b66704d4d4aa4ea7bab6e6ef673568b3/1200.m3u8
+
+#EXTINF:-1 tvg-id="捕食奇谋(上)" tvg-name="捕食奇谋(上)" tvg-logo="" group-title="人与自然",捕食奇谋(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/543fa61893394cc48d2802207c8a51e8/1200.m3u8
+
+#EXTINF:-1 tvg-id="捕食奇谋(下)" tvg-name="捕食奇谋(下)" tvg-logo="" group-title="人与自然",捕食奇谋(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/05ba8dcc7a224442a58f6d6f86885d25/1200.m3u8
+
+#EXTINF:-1 tvg-id="捕食者大观" tvg-name="捕食者大观" tvg-logo="" group-title="人与自然",捕食者大观
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d19e46abe2754e2985715a147e653626/1200.m3u8
+
+#EXTINF:-1 tvg-id="捕食者身体构造" tvg-name="捕食者身体构造" tvg-logo="" group-title="人与自然",捕食者身体构造
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/83901acd0fed408f904a9b554c8e16ef/1200.m3u8
+
+#EXTINF:-1 tvg-id="捕食者追猎现场(上)" tvg-name="捕食者追猎现场(上)" tvg-logo="" group-title="人与自然",捕食者追猎现场(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/853b68324c2e4718ad08298aaed459b7/1200.m3u8
+
+#EXTINF:-1 tvg-id="捕食者追猎现场(下)" tvg-name="捕食者追猎现场(下)" tvg-logo="" group-title="人与自然",捕食者追猎现场(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/6016b09920a7447eb798f3f891f52bad/1200.m3u8
+
+#EXTINF:-1 tvg-id="探秘冰上的北极熊(上)" tvg-name="探秘冰上的北极熊(上)" tvg-logo="" group-title="人与自然",探秘冰上的北极熊(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/6a74d01391d849849c7391b2466f3752/1200.m3u8
+
+#EXTINF:-1 tvg-id="探秘冰上的北极熊(下)" tvg-name="探秘冰上的北极熊(下)" tvg-logo="" group-title="人与自然",探秘冰上的北极熊(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/509e924ad47e422984af226b26236bf6/1200.m3u8
+
+#EXTINF:-1 tvg-id="探秘雨林利爪族(上)" tvg-name="探秘雨林利爪族(上)" tvg-logo="" group-title="人与自然",探秘雨林利爪族(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/dc83b3fe7f874e33959bdbf034e6451c/1200.m3u8
+
+#EXTINF:-1 tvg-id="探秘雨林利爪族(下)" tvg-name="探秘雨林利爪族(下)" tvg-logo="" group-title="人与自然",探秘雨林利爪族(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5a8fd3e4e8ba4ca5b62f1b90ae9c3640/1200.m3u8
+
+#EXTINF:-1 tvg-id="新狮王诞生记" tvg-name="新狮王诞生记" tvg-logo="" group-title="人与自然",新狮王诞生记
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5e156f1734234e17ab0f6f87f2e7491b/1200.m3u8
+
+#EXTINF:-1 tvg-id="旱季冒险故事" tvg-name="旱季冒险故事" tvg-logo="" group-title="人与自然",旱季冒险故事
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ac505ca5d2d5469eb21448c300a8c16c/1200.m3u8
+
+#EXTINF:-1 tvg-id="旱季极限生存战" tvg-name="旱季极限生存战" tvg-logo="" group-title="人与自然",旱季极限生存战
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1b750e952abb452c9f77d44f8d8bae17/1200.m3u8
+
+#EXTINF:-1 tvg-id="旱季生存攻略" tvg-name="旱季生存攻略" tvg-logo="" group-title="人与自然",旱季生存攻略
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3f34548881664dd6afb01ccdcb677a5d/1200.m3u8
+
+#EXTINF:-1 tvg-id="有一只美丽的大水獭" tvg-name="有一只美丽的大水獭" tvg-logo="" group-title="人与自然",有一只美丽的大水獭
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f1ddaab95ca9475da4cd97907cef8e96/1200.m3u8
+
+#EXTINF:-1 tvg-id="来到这个美丽的世界(上)" tvg-name="来到这个美丽的世界(上)" tvg-logo="" group-title="人与自然",来到这个美丽的世界(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/003d910853de498299eb47d7d8a2eedf/1200.m3u8
+
+#EXTINF:-1 tvg-id="来到这个美丽的世界(下)" tvg-name="来到这个美丽的世界(下)" tvg-logo="" group-title="人与自然",来到这个美丽的世界(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9323ea96cf6a47afaf798fca6d9411e6/1200.m3u8
+
+#EXTINF:-1 tvg-id="林间潜伏" tvg-name="林间潜伏" tvg-logo="" group-title="人与自然",林间潜伏
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/922b142fef9443218be5eaf44df0b397/1200.m3u8
+
+#EXTINF:-1 tvg-id="棋逢对手" tvg-name="棋逢对手" tvg-logo="" group-title="人与自然",棋逢对手
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3d515f3011c64797ae15bf36c639cb49/1200.m3u8
+
+#EXTINF:-1 tvg-id="棕熊把守的水上要塞(上)" tvg-name="棕熊把守的水上要塞(上)" tvg-logo="" group-title="人与自然",棕熊把守的水上要塞(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/50590d053a2245428391323902e07d0e/1200.m3u8
+
+#EXTINF:-1 tvg-id="棕熊把守的水上要塞(下)" tvg-name="棕熊把守的水上要塞(下)" tvg-logo="" group-title="人与自然",棕熊把守的水上要塞(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/bb2341e42865439eaed4502fcc736ea5/1200.m3u8
+
+#EXTINF:-1 tvg-id="棕熊捕鱼季(上)" tvg-name="棕熊捕鱼季(上)" tvg-logo="" group-title="人与自然",棕熊捕鱼季(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1ef91cb6079d46ccb9a62f046739d5c8/1200.m3u8
+
+#EXTINF:-1 tvg-id="棕熊的捕鱼生活(上)" tvg-name="棕熊的捕鱼生活(上)" tvg-logo="" group-title="人与自然",棕熊的捕鱼生活(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/388d46918ea34570a3fed5f5ceb393ee/1200.m3u8
+
+#EXTINF:-1 tvg-id="棕熊的捕鱼生活(下)" tvg-name="棕熊的捕鱼生活(下)" tvg-logo="" group-title="人与自然",棕熊的捕鱼生活(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/09def25492254217aba438e7403741e2/1200.m3u8
+
+#EXTINF:-1 tvg-id="森林是我家1" tvg-name="森林是我家1" tvg-logo="" group-title="人与自然",森林是我家1
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c105c056c3f744baa49ce0b8b39c1f3b/1200.m3u8
+
+#EXTINF:-1 tvg-id="森林是我家2" tvg-name="森林是我家2" tvg-logo="" group-title="人与自然",森林是我家2
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/63bb582977074c57a127eaca9d954154/1200.m3u8
+
+#EXTINF:-1 tvg-id="森林是我家3" tvg-name="森林是我家3" tvg-logo="" group-title="人与自然",森林是我家3
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/14b683f0668f404a9bb8ea74d14c5c8e/1200.m3u8
+
+#EXTINF:-1 tvg-id="植物王国漫游记" tvg-name="植物王国漫游记" tvg-logo="" group-title="人与自然",植物王国漫游记
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/fa3ad43978014ff4b64b4bff8914116c/1200.m3u8
+
+#EXTINF:-1 tvg-id="母爱之路" tvg-name="母爱之路" tvg-logo="" group-title="人与自然",母爱之路
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/115d481467e04333be047fcebf482b3e/1200.m3u8
+
+#EXTINF:-1 tvg-id="母爱的呵护" tvg-name="母爱的呵护" tvg-logo="" group-title="人与自然",母爱的呵护
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/a6ec4d0475e1453e8ede023e346c2350/1200.m3u8
+
+#EXTINF:-1 tvg-id="水牛与狮子的争战" tvg-name="水牛与狮子的争战" tvg-logo="" group-title="人与自然",水牛与狮子的争战
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d1e0dc98b1374b43b157bf82eebc6d09/1200.m3u8
+
+#EXTINF:-1 tvg-id="水牛向前冲(上)" tvg-name="水牛向前冲(上)" tvg-logo="" group-title="人与自然",水牛向前冲(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2f05eb49b3a049c88a848a1104dc856f/1200.m3u8
+
+#EXTINF:-1 tvg-id="水牛向前冲(下)" tvg-name="水牛向前冲(下)" tvg-logo="" group-title="人与自然",水牛向前冲(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/bda4b441c07e40cb8a418381d0506c80/1200.m3u8
+
+#EXTINF:-1 tvg-id="水獭奇缘" tvg-name="水獭奇缘" tvg-logo="" group-title="人与自然",水獭奇缘
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/da2d147b25404552b118111dd52d7a25/1200.m3u8
+
+#EXTINF:-1 tvg-id="水豚爱湿地" tvg-name="水豚爱湿地" tvg-logo="" group-title="人与自然",水豚爱湿地
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c7488fc3bed341ad827c054d3ec7e62d/1200.m3u8
+
+#EXTINF:-1 tvg-id="沙滩上的盛宴" tvg-name="沙滩上的盛宴" tvg-logo="" group-title="人与自然",沙滩上的盛宴
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/31e38a0232734780842a9031072c2073/1200.m3u8
+
+#EXTINF:-1 tvg-id="河里的捕食大师(上)" tvg-name="河里的捕食大师(上)" tvg-logo="" group-title="人与自然",河里的捕食大师(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/bf70f8033ec049f5be4698c3497d3868/1200.m3u8
+
+#EXTINF:-1 tvg-id="河里的捕食大师(下)" tvg-name="河里的捕食大师(下)" tvg-logo="" group-title="人与自然",河里的捕食大师(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/040c050908a340238dacd1ac86694543/1200.m3u8
+
+#EXTINF:-1 tvg-id="河龙王出海" tvg-name="河龙王出海" tvg-logo="" group-title="人与自然",河龙王出海
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f352ba97a41146279f5d250cc8c670bb/1200.m3u8
+
+#EXTINF:-1 tvg-id="海底生存战" tvg-name="海底生存战" tvg-logo="" group-title="人与自然",海底生存战
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/20225ac33ef7408e8c7040cb39d6a595/1200.m3u8
+
+#EXTINF:-1 tvg-id="海洋宫殿的守护者" tvg-name="海洋宫殿的守护者" tvg-logo="" group-title="人与自然",海洋宫殿的守护者
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/86c73156b8ad405180ed252940b2155c/1200.m3u8
+
+#EXTINF:-1 tvg-id="海洋猎手" tvg-name="海洋猎手" tvg-logo="" group-title="人与自然",海洋猎手
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f98ebc30517647839c09fb17e0dbea04/1200.m3u8
+
+#EXTINF:-1 tvg-id="海洋里的神奇家族(上)" tvg-name="海洋里的神奇家族(上)" tvg-logo="" group-title="人与自然",海洋里的神奇家族(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ef8e561920694e4a81cd1933314610cb/1200.m3u8
+
+#EXTINF:-1 tvg-id="海洋里的神奇家族(下)" tvg-name="海洋里的神奇家族(下)" tvg-logo="" group-title="人与自然",海洋里的神奇家族(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/a68ae907dc7e4783af8d9547a1926435/1200.m3u8
+
+#EXTINF:-1 tvg-id="海的呼唤" tvg-name="海的呼唤" tvg-logo="" group-title="人与自然",海的呼唤
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ee6a46541b624388a01ba2fc14c34079/1200.m3u8
+
+#EXTINF:-1 tvg-id="海豚的奇妙生活(上)" tvg-name="海豚的奇妙生活(上)" tvg-logo="" group-title="人与自然",海豚的奇妙生活(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/30385b1caa214c9a8c6c53ef69ce7e18/1200.m3u8
+
+#EXTINF:-1 tvg-id="海豚的奇妙生活(下)" tvg-name="海豚的奇妙生活(下)" tvg-logo="" group-title="人与自然",海豚的奇妙生活(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b61b0646586142aca08c2e8d333c385b/1200.m3u8
+
+#EXTINF:-1 tvg-id="海鬣蜥的幸福生活" tvg-name="海鬣蜥的幸福生活" tvg-logo="" group-title="人与自然",海鬣蜥的幸福生活
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/a66f6344f9cc4ed3b42b06e678124d0f/1200.m3u8
+
+#EXTINF:-1 tvg-id="海鬣蜥的故事" tvg-name="海鬣蜥的故事" tvg-logo="" group-title="人与自然",海鬣蜥的故事
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d19635c3f57f4e538e078569ac796fd6/1200.m3u8
+
+#EXTINF:-1 tvg-id="深海潜伏的猎手" tvg-name="深海潜伏的猎手" tvg-logo="" group-title="人与自然",深海潜伏的猎手
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f1a00ae54f3b428bac1ed388ced1ce70/1200.m3u8
+
+#EXTINF:-1 tvg-id="湿地之争豹与鳄鱼" tvg-name="湿地之争豹与鳄鱼" tvg-logo="" group-title="人与自然",湿地之争豹与鳄鱼
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1fe1e5df7c9d4b38a0a855e092a7b6c1/1200.m3u8
+
+#EXTINF:-1 tvg-id="湿地小萌兽" tvg-name="湿地小萌兽" tvg-logo="" group-title="人与自然",湿地小萌兽
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/00892961ec6546ae8c78e96d1dd0874a/1200.m3u8
+
+#EXTINF:-1 tvg-id="湿地有萌兽" tvg-name="湿地有萌兽" tvg-logo="" group-title="人与自然",湿地有萌兽
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/e3c31d84ec7e4035a8501db9df1d140b/1200.m3u8
+
+#EXTINF:-1 tvg-id="潜水大师的岛上生活(上)" tvg-name="潜水大师的岛上生活(上)" tvg-logo="" group-title="人与自然",潜水大师的岛上生活(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/cd88344f084b47c593388fdf6a8c443f/1200.m3u8
+
+#EXTINF:-1 tvg-id="潜水大师的岛上生活(下)" tvg-name="潜水大师的岛上生活(下)" tvg-logo="" group-title="人与自然",潜水大师的岛上生活(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/76332b54d8074b0fada76d081570d621/1200.m3u8
+
+#EXTINF:-1 tvg-id="熊在旅途(上)" tvg-name="熊在旅途(上)" tvg-logo="" group-title="人与自然",熊在旅途(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b0b95c35bce84072b10ad0b82cf83951/1200.m3u8
+
+#EXTINF:-1 tvg-id="熊在旅途(下)" tvg-name="熊在旅途(下)" tvg-logo="" group-title="人与自然",熊在旅途(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9dc810bc8a3b426f88ac8c998f9e5332/1200.m3u8
+
+#EXTINF:-1 tvg-id="熊的王国" tvg-name="熊的王国" tvg-logo="" group-title="人与自然",熊的王国
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ade1b31d23694fba82c9c4f07dba3267/1200.m3u8
+
+#EXTINF:-1 tvg-id="爱与狗相伴" tvg-name="爱与狗相伴" tvg-logo="" group-title="人与自然",爱与狗相伴
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/530a12d274184293802f51c38603f75a/1200.m3u8
+
+#EXTINF:-1 tvg-id="爱你我的宝宝(上)" tvg-name="爱你我的宝宝(上)" tvg-logo="" group-title="人与自然",爱你我的宝宝(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/08f97ee21d884d0486c37ae6fb7c5683/1200.m3u8
+
+#EXTINF:-1 tvg-id="爱你我的宝宝(下)" tvg-name="爱你我的宝宝(下)" tvg-logo="" group-title="人与自然",爱你我的宝宝(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f16dbba3ddf84af2a0ff1521448ee4da/1200.m3u8
+
+#EXTINF:-1 tvg-id="爱吃鱼的棕熊" tvg-name="爱吃鱼的棕熊" tvg-logo="" group-title="人与自然",爱吃鱼的棕熊
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/79c7bb4495f74ca698f3111a6f7ba567/1200.m3u8
+
+#EXTINF:-1 tvg-id="爱的奉献1" tvg-name="爱的奉献1" tvg-logo="" group-title="人与自然",爱的奉献1
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5b062ba2cd854ba993166d277af8a40d/1200.m3u8
+
+#EXTINF:-1 tvg-id="爱的奉献2" tvg-name="爱的奉献2" tvg-logo="" group-title="人与自然",爱的奉献2
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/80cf935aef484e15aa31b8fbd565be39/1200.m3u8
+
+#EXTINF:-1 tvg-id="爱的奉献3" tvg-name="爱的奉献3" tvg-logo="" group-title="人与自然",爱的奉献3
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/aee1f28cf3e94a5fa7468206d4f417ed/1200.m3u8
+
+#EXTINF:-1 tvg-id="狮口馀生的小角马(上)" tvg-name="狮口馀生的小角马(上)" tvg-logo="" group-title="人与自然",狮口馀生的小角马(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/7cfc0fe7981b4022b69c3e1cb7317b77/1200.m3u8
+
+#EXTINF:-1 tvg-id="狮子和鬣狗(上)" tvg-name="狮子和鬣狗(上)" tvg-logo="" group-title="人与自然",狮子和鬣狗(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/6ca061c3b9184e7aa46cef1ead911099/1200.m3u8
+
+#EXTINF:-1 tvg-id="狮子和鬣狗(下)" tvg-name="狮子和鬣狗(下)" tvg-logo="" group-title="人与自然",狮子和鬣狗(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/e5ea8f4b0cbd4d7aa779b9dfed5a9448/1200.m3u8
+
+#EXTINF:-1 tvg-id="狮子捕猎计划" tvg-name="狮子捕猎计划" tvg-logo="" group-title="人与自然",狮子捕猎计划
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/6f2b58a05add4e2a9907ba370473332a/1200.m3u8
+
+#EXTINF:-1 tvg-id="狮子的荣耀回归之路1" tvg-name="狮子的荣耀回归之路1" tvg-logo="" group-title="人与自然",狮子的荣耀回归之路1
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/bec9f485672345339c49bc345edf9fd5/1200.m3u8
+
+#EXTINF:-1 tvg-id="狮子的荣耀回归之路2" tvg-name="狮子的荣耀回归之路2" tvg-logo="" group-title="人与自然",狮子的荣耀回归之路2
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/bdb438a81a20403db85b6e9d12707f2d/1200.m3u8
+
+#EXTINF:-1 tvg-id="狮子的荣耀回归之路3" tvg-name="狮子的荣耀回归之路3" tvg-logo="" group-title="人与自然",狮子的荣耀回归之路3
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/50ef8c8037da4735a9cb9288f45878b0/1200.m3u8
+
+#EXTINF:-1 tvg-id="狮子的荣耀回归之路4" tvg-name="狮子的荣耀回归之路4" tvg-logo="" group-title="人与自然",狮子的荣耀回归之路4
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2fea6699d56f4274b5ab5260b016fda2/1200.m3u8
+
+#EXTINF:-1 tvg-id="狮族迷踪1" tvg-name="狮族迷踪1" tvg-logo="" group-title="人与自然",狮族迷踪1
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/801151749824437aaa0afa87bfcf7abf/1200.m3u8
+
+#EXTINF:-1 tvg-id="狮族迷踪2" tvg-name="狮族迷踪2" tvg-logo="" group-title="人与自然",狮族迷踪2
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b4ff6041c00246af815b679a7ee6c4a6/1200.m3u8
+
+#EXTINF:-1 tvg-id="狮族迷踪3" tvg-name="狮族迷踪3" tvg-logo="" group-title="人与自然",狮族迷踪3
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5e01c3ff2a5844ab80643ce67ba29026/1200.m3u8
+
+#EXTINF:-1 tvg-id="狮群的家园生活" tvg-name="狮群的家园生活" tvg-logo="" group-title="人与自然",狮群的家园生活
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/cad939a2eb714f4b9d37c4185674d50b/1200.m3u8
+
+#EXTINF:-1 tvg-id="狮群的荣耀" tvg-name="狮群的荣耀" tvg-logo="" group-title="人与自然",狮群的荣耀
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/84b850056589475f80528cf28b9b840a/1200.m3u8
+
+#EXTINF:-1 tvg-id="狼女王的奋斗传奇" tvg-name="狼女王的奋斗传奇" tvg-logo="" group-title="人与自然",狼女王的奋斗传奇
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f2d629470e214acf9d08dc81f4773cbf/1200.m3u8
+
+#EXTINF:-1 tvg-id="猎手求生记" tvg-name="猎手求生记" tvg-logo="" group-title="人与自然",猎手求生记
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5bc79939a4804f199e606cc08b1bb416/1200.m3u8
+
+#EXTINF:-1 tvg-id="猎手生存攻略" tvg-name="猎手生存攻略" tvg-logo="" group-title="人与自然",猎手生存攻略
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/703310100a944d78a5e6838f80920cd6/1200.m3u8
+
+#EXTINF:-1 tvg-id="猎豹妈妈奋斗记" tvg-name="猎豹妈妈奋斗记" tvg-logo="" group-title="人与自然",猎豹妈妈奋斗记
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/6b10d45dafaa47f4a3c3444946c074c9/1200.m3u8
+
+#EXTINF:-1 tvg-id="猎豹妈妈育儿记(上)" tvg-name="猎豹妈妈育儿记(上)" tvg-logo="" group-title="人与自然",猎豹妈妈育儿记(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/dba9097ef49e42acb2c6597e04551fbc/1200.m3u8
+
+#EXTINF:-1 tvg-id="猎豹妈妈育儿记(下)" tvg-name="猎豹妈妈育儿记(下)" tvg-logo="" group-title="人与自然",猎豹妈妈育儿记(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/fca702ad83284ff0a3b883a735913060/1200.m3u8
+
+#EXTINF:-1 tvg-id="猎食计划1" tvg-name="猎食计划1" tvg-logo="" group-title="人与自然",猎食计划1
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/cd732e06e7934a3daef6483c6be1afca/1200.m3u8
+
+#EXTINF:-1 tvg-id="猎食计划2" tvg-name="猎食计划2" tvg-logo="" group-title="人与自然",猎食计划2
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/497afdb07e92409fb8cb5c0249dfe6d7/1200.m3u8
+
+#EXTINF:-1 tvg-id="猎食计划3" tvg-name="猎食计划3" tvg-logo="" group-title="人与自然",猎食计划3
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/947b6c076a0c4a3ca72a1274731feb66/1200.m3u8
+
+#EXTINF:-1 tvg-id="猛虎柔情" tvg-name="猛虎柔情" tvg-logo="" group-title="人与自然",猛虎柔情
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/dd3be5a89c1542d3bb4db0953a1430c6/1200.m3u8
+
+#EXTINF:-1 tvg-id="猫科动物谁为王者(上)" tvg-name="猫科动物谁为王者(上)" tvg-logo="" group-title="人与自然",猫科动物谁为王者(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/17c3860b26c14110a740dfa49785a1bd/1200.m3u8
+
+#EXTINF:-1 tvg-id="猫科动物谁为王者(下)" tvg-name="猫科动物谁为王者(下)" tvg-logo="" group-title="人与自然",猫科动物谁为王者(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1cbb873dc7474315b86788e9f657534a/1200.m3u8
+
+#EXTINF:-1 tvg-id="猴子的智慧" tvg-name="猴子的智慧" tvg-logo="" group-title="人与自然",猴子的智慧
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ef01d6b79fe74daf9bd63ff0469713d2/1200.m3u8
+
+#EXTINF:-1 tvg-id="生存极限大挑战" tvg-name="生存极限大挑战" tvg-logo="" group-title="人与自然",生存极限大挑战
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9dc7b6dcacde4fad9467c4d2c61da3d1/1200.m3u8
+
+#EXTINF:-1 tvg-id="生存的望(上)" tvg-name="生存的望(上)" tvg-logo="" group-title="人与自然",生存的望(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/fd00ce388b994d7195dbefc1beb5726b/1200.m3u8
+
+#EXTINF:-1 tvg-id="生存的望(下)" tvg-name="生存的望(下)" tvg-logo="" group-title="人与自然",生存的望(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d9765b81ca83444a9ba7b6a335b2466a/1200.m3u8
+
+#EXTINF:-1 tvg-id="疯狂的爱" tvg-name="疯狂的爱" tvg-logo="" group-title="人与自然",疯狂的爱
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/35b481b5e27a4fa2b2c03f42596b68ba/1200.m3u8
+
+#EXTINF:-1 tvg-id="白狮归来1" tvg-name="白狮归来1" tvg-logo="" group-title="人与自然",白狮归来1
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/199ab14f5ba44a208371a3eef0029a09/1200.m3u8
+
+#EXTINF:-1 tvg-id="白狮归来2" tvg-name="白狮归来2" tvg-logo="" group-title="人与自然",白狮归来2
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/e3b36e52d0bc4a0a851a1bd3fa181365/1200.m3u8
+
+#EXTINF:-1 tvg-id="白狮归来4" tvg-name="白狮归来4" tvg-logo="" group-title="人与自然",白狮归来4
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ffda5e0584b64e0d9dc3cc43783900cf/1200.m3u8
+
+#EXTINF:-1 tvg-id="白狮的荒野故事(上)" tvg-name="白狮的荒野故事(上)" tvg-logo="" group-title="人与自然",白狮的荒野故事(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/649a0df6bc394fde973b2e8ef12ef3d6/1200.m3u8
+
+#EXTINF:-1 tvg-id="白狮的荒野故事(下)" tvg-name="白狮的荒野故事(下)" tvg-logo="" group-title="人与自然",白狮的荒野故事(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1eee9eda1dec4c8da256c6b2ef70114a/1200.m3u8
+
+#EXTINF:-1 tvg-id="盛宴的旅程" tvg-name="盛宴的旅程" tvg-logo="" group-title="人与自然",盛宴的旅程
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/fbcd61c318c34e08854c3911086a7406/1200.m3u8
+
+#EXTINF:-1 tvg-id="看得见的远方1" tvg-name="看得见的远方1" tvg-logo="" group-title="人与自然",看得见的远方1
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f532415139fb4dc3a0e9de757d535d6a/1200.m3u8
+
+#EXTINF:-1 tvg-id="看得见的远方3" tvg-name="看得见的远方3" tvg-logo="" group-title="人与自然",看得见的远方3
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/255a802e924a44f381318db92a32431e/1200.m3u8
+
+#EXTINF:-1 tvg-id="神秘的眼睛王蛇" tvg-name="神秘的眼睛王蛇" tvg-logo="" group-title="人与自然",神秘的眼睛王蛇
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/cb73d16a9e02484ab4708b0268b63bcf/1200.m3u8
+
+#EXTINF:-1 tvg-id="秘境之蛇" tvg-name="秘境之蛇" tvg-logo="" group-title="人与自然",秘境之蛇
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c4e45ac9dd2642b6ae9fb95b470224a9/1200.m3u8
+
+#EXTINF:-1 tvg-id="秘境里的动物王国" tvg-name="秘境里的动物王国" tvg-logo="" group-title="人与自然",秘境里的动物王国
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/bb36368ba24f47ed88d4204fd3db5483/1200.m3u8
+
+#EXTINF:-1 tvg-id="秘境里的奇观" tvg-name="秘境里的奇观" tvg-logo="" group-title="人与自然",秘境里的奇观
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/38ba9675721d4259b3dd327b7e212a39/1200.m3u8
+
+#EXTINF:-1 tvg-id="穿越森林的迷宫" tvg-name="穿越森林的迷宫" tvg-logo="" group-title="人与自然",穿越森林的迷宫
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/52bf33932d1646529b95b044f187d4d3/1200.m3u8
+
+#EXTINF:-1 tvg-id="穿越狮子的领地" tvg-name="穿越狮子的领地" tvg-logo="" group-title="人与自然",穿越狮子的领地
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ea08ccce272f4b7984eb665a97bab536/1200.m3u8
+
+#EXTINF:-1 tvg-id="童话般的雨林(上)" tvg-name="童话般的雨林(上)" tvg-logo="" group-title="人与自然",童话般的雨林(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/a1672972c0b742239237bb1686ba0745/1200.m3u8
+
+#EXTINF:-1 tvg-id="童话般的雨林(下)" tvg-name="童话般的雨林(下)" tvg-logo="" group-title="人与自然",童话般的雨林(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8e99e3c9f38340a98fb79b36ab1c863f/1200.m3u8
+
+#EXTINF:-1 tvg-id="美食的" tvg-name="美食的" tvg-logo="" group-title="人与自然",美食的
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9debd40527e34471bdfbe1212aa198d7/1200.m3u8
+
+#EXTINF:-1 tvg-id="耀眼的白狮家族1" tvg-name="耀眼的白狮家族1" tvg-logo="" group-title="人与自然",耀眼的白狮家族1
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/07c3395ee5da4f789937372657ab980a/1200.m3u8
+
+#EXTINF:-1 tvg-id="耀眼的白狮家族2" tvg-name="耀眼的白狮家族2" tvg-logo="" group-title="人与自然",耀眼的白狮家族2
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3989c3f3416745438c4bc20abeae51ae/1200.m3u8
+
+#EXTINF:-1 tvg-id="耀眼的白狮家族3" tvg-name="耀眼的白狮家族3" tvg-logo="" group-title="人与自然",耀眼的白狮家族3
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/e0efcf1181234f2dabef87db65bcdec0/1200.m3u8
+
+#EXTINF:-1 tvg-id="聪明的建筑师" tvg-name="聪明的建筑师" tvg-logo="" group-title="人与自然",聪明的建筑师
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d04a550f19ac42869d7b4d3f5f9246b2/1200.m3u8
+
+#EXTINF:-1 tvg-id="自然界奥运冠军" tvg-name="自然界奥运冠军" tvg-logo="" group-title="人与自然",自然界奥运冠军
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/7b968e9b50984d598d96c6fc5af40b4c/1200.m3u8
+
+#EXTINF:-1 tvg-id="花豹柔情" tvg-name="花豹柔情" tvg-logo="" group-title="人与自然",花豹柔情
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/96712ee30d144f21a0566f3c1b2fbc56/1200.m3u8
+
+#EXTINF:-1 tvg-id="草原三巨头" tvg-name="草原三巨头" tvg-logo="" group-title="人与自然",草原三巨头
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2bdc779138bb4235b20a5155e40fa7c8/1200.m3u8
+
+#EXTINF:-1 tvg-id="草原上的大猫王国" tvg-name="草原上的大猫王国" tvg-logo="" group-title="人与自然",草原上的大猫王国
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/e98eed67d3164ec0a2f5a9215693f7a8/1200.m3u8
+
+#EXTINF:-1 tvg-id="草原之王上战场" tvg-name="草原之王上战场" tvg-logo="" group-title="人与自然",草原之王上战场
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/bfb6917b29ea413c89e8ed8fa6e2a6ab/1200.m3u8
+
+#EXTINF:-1 tvg-id="草原狮子的戏剧舞台(上)" tvg-name="草原狮子的戏剧舞台(上)" tvg-logo="" group-title="人与自然",草原狮子的戏剧舞台(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/93fde1242f50415faa6da2dd5da9105b/1200.m3u8
+
+#EXTINF:-1 tvg-id="草原狮子的戏剧舞台(下)" tvg-name="草原狮子的戏剧舞台(下)" tvg-logo="" group-title="人与自然",草原狮子的戏剧舞台(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c5b600bcb2c44c44b56e9afdb5243a07/1200.m3u8
+
+#EXTINF:-1 tvg-id="荒野里的呼唤" tvg-name="荒野里的呼唤" tvg-logo="" group-title="人与自然",荒野里的呼唤
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/de55f16b130042b19472ef89e184d719/1200.m3u8
+
+#EXTINF:-1 tvg-id="萌狗诞生记" tvg-name="萌狗诞生记" tvg-logo="" group-title="人与自然",萌狗诞生记
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0f68b16f162c493c8d82a57135f16da0/1200.m3u8
+
+#EXTINF:-1 tvg-id="虎妈妈爱(上)" tvg-name="虎妈妈爱(上)" tvg-logo="" group-title="人与自然",虎妈妈爱(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/6855ee238c9c4e9893ff342b7dbe5a2b/1200.m3u8
+
+#EXTINF:-1 tvg-id="虎妈妈爱(下)" tvg-name="虎妈妈爱(下)" tvg-logo="" group-title="人与自然",虎妈妈爱(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9b07324b869c457e80531b72e979ee1a/1200.m3u8
+
+#EXTINF:-1 tvg-id="蛇类大观园" tvg-name="蛇类大观园" tvg-logo="" group-title="人与自然",蛇类大观园
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/414f84230ced4696af656a112385b72c/1200.m3u8
+
+#EXTINF:-1 tvg-id="蜥蜴安身火山岛(上)" tvg-name="蜥蜴安身火山岛(上)" tvg-logo="" group-title="人与自然",蜥蜴安身火山岛(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0c3c388b10ad4cf78f312c6d6620f1e0/1200.m3u8
+
+#EXTINF:-1 tvg-id="蜥蜴安身火山岛(下)" tvg-name="蜥蜴安身火山岛(下)" tvg-logo="" group-title="人与自然",蜥蜴安身火山岛(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5043f9b708fe443fb9207e26da903218/1200.m3u8
+
+#EXTINF:-1 tvg-id="螃蟹岛海战(上)" tvg-name="螃蟹岛海战(上)" tvg-logo="" group-title="人与自然",螃蟹岛海战(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d0137f4e9adc44a7856c7288fe8ca3d2/1200.m3u8
+
+#EXTINF:-1 tvg-id="螃蟹岛海战(下)" tvg-name="螃蟹岛海战(下)" tvg-logo="" group-title="人与自然",螃蟹岛海战(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d784a777f3dd42b3b73be06858b71197/1200.m3u8
+
+#EXTINF:-1 tvg-id="被母狮拯救的小角马(上)" tvg-name="被母狮拯救的小角马(上)" tvg-logo="" group-title="人与自然",被母狮拯救的小角马(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ba95e1a983584925887c11306f83ccf8/1200.m3u8
+
+#EXTINF:-1 tvg-id="被母狮拯救的小角马(下)" tvg-name="被母狮拯救的小角马(下)" tvg-logo="" group-title="人与自然",被母狮拯救的小角马(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8e655ba0c751468b9d18f3020133571f/1200.m3u8
+
+#EXTINF:-1 tvg-id="角马幸运儿(上)" tvg-name="角马幸运儿(上)" tvg-logo="" group-title="人与自然",角马幸运儿(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/40c883e3f4c441d08422ce49aec61644/1200.m3u8
+
+#EXTINF:-1 tvg-id="角马幸运儿(下)" tvg-name="角马幸运儿(下)" tvg-logo="" group-title="人与自然",角马幸运儿(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/67b7d65e3b3e4b509e314e65937ef369/1200.m3u8
+
+#EXTINF:-1 tvg-id="豹妈当家(上)" tvg-name="豹妈当家(上)" tvg-logo="" group-title="人与自然",豹妈当家(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/984cda8d35d544658fbd96b417bdea1f/1200.m3u8
+
+#EXTINF:-1 tvg-id="豹妈当家(下)" tvg-name="豹妈当家(下)" tvg-logo="" group-title="人与自然",豹妈当家(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/33343249dabd4dcfaeb64da7ab7fe061/1200.m3u8
+
+#EXTINF:-1 tvg-id="走出包围圈" tvg-name="走出包围圈" tvg-logo="" group-title="人与自然",走出包围圈
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/38fc4f8e379445aeab6098b9ece0aa2a/1200.m3u8
+
+#EXTINF:-1 tvg-id="走进狗的世界" tvg-name="走进狗的世界" tvg-logo="" group-title="人与自然",走进狗的世界
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/25c049869a174f5fa5806e57a2c376bd/1200.m3u8
+
+#EXTINF:-1 tvg-id="超凡猎手" tvg-name="超凡猎手" tvg-logo="" group-title="人与自然",超凡猎手
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8bd3d27314fd431a84d8443c2fdc8b02/1200.m3u8
+
+#EXTINF:-1 tvg-id="超级狮子家族" tvg-name="超级狮子家族" tvg-logo="" group-title="人与自然",超级狮子家族
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f689bc846e93479898d8dcbdffad9744/1200.m3u8
+
+#EXTINF:-1 tvg-id="超级狮子群的故事(上)" tvg-name="超级狮子群的故事(上)" tvg-logo="" group-title="人与自然",超级狮子群的故事(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1c0a25fcb5564e02a435ec33fbdc4888/1200.m3u8
+
+#EXTINF:-1 tvg-id="超级狮子群的故事(下)" tvg-name="超级狮子群的故事(下)" tvg-logo="" group-title="人与自然",超级狮子群的故事(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8986640e9a3f43be9ffe66f0feb41f72/1200.m3u8
+
+#EXTINF:-1 tvg-id="超级猫行动" tvg-name="超级猫行动" tvg-logo="" group-title="人与自然",超级猫行动
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8d952bbdd6cc4e6abf9df153bc18e927/1200.m3u8
+
+#EXTINF:-1 tvg-id="足球超级猎食者(上)" tvg-name="足球超级猎食者(上)" tvg-logo="" group-title="人与自然",足球超级猎食者(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/4d0dc6b22b8e48efa4a984ec990a4faf/1200.m3u8
+
+#EXTINF:-1 tvg-id="足球超级猎食者(下)" tvg-name="足球超级猎食者(下)" tvg-logo="" group-title="人与自然",足球超级猎食者(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d7aec4db75da469d915a5dd7a0fb3d70/1200.m3u8
+
+#EXTINF:-1 tvg-id="辣妈带娃记" tvg-name="辣妈带娃记" tvg-logo="" group-title="人与自然",辣妈带娃记
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8fd303fc08454c3497673fa40ced6284/1200.m3u8
+
+#EXTINF:-1 tvg-id="进化中的北极熊" tvg-name="进化中的北极熊" tvg-logo="" group-title="人与自然",进化中的北极熊
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/caf316bd282e4bfdbbd36bac2514c428/1200.m3u8
+
+#EXTINF:-1 tvg-id="追踪兽王" tvg-name="追踪兽王" tvg-logo="" group-title="人与自然",追踪兽王
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/93dfcb01bd634370bc211fc7484854ec/1200.m3u8
+
+#EXTINF:-1 tvg-id="追逐的游戏" tvg-name="追逐的游戏" tvg-logo="" group-title="人与自然",追逐的游戏
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/34459ad5d340461daab2f453d485833d/1200.m3u8
+
+#EXTINF:-1 tvg-id="速度与生存(五)" tvg-name="速度与生存(五)" tvg-logo="" group-title="人与自然",速度与生存(五)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9953caf767b04ae782540c8ac53eaaa4/1200.m3u8
+
+#EXTINF:-1 tvg-id="速度与生存1" tvg-name="速度与生存1" tvg-logo="" group-title="人与自然",速度与生存1
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1cc83ec8b9b44794b63e1a249b9fb2fb/1200.m3u8
+
+#EXTINF:-1 tvg-id="速度与生存2" tvg-name="速度与生存2" tvg-logo="" group-title="人与自然",速度与生存2
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/31abc302978f45df9c4e8aaa3972d599/1200.m3u8
+
+#EXTINF:-1 tvg-id="速度与生存3" tvg-name="速度与生存3" tvg-logo="" group-title="人与自然",速度与生存3
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/570d9ce8d39d4ede9a26ae6de4d28f54/1200.m3u8
+
+#EXTINF:-1 tvg-id="速度与生存4" tvg-name="速度与生存4" tvg-logo="" group-title="人与自然",速度与生存4
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f37b1966271f4527a581ed9275c34f7c/1200.m3u8
+
+#EXTINF:-1 tvg-id="速度大比拼(上)" tvg-name="速度大比拼(上)" tvg-logo="" group-title="人与自然",速度大比拼(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2746acf40172425180162fc3a316416b/1200.m3u8
+
+#EXTINF:-1 tvg-id="速度大比拼(下)" tvg-name="速度大比拼(下)" tvg-logo="" group-title="人与自然",速度大比拼(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d2e5439b8a9c4b53970e5c3b0eee9abd/1200.m3u8
+
+#EXTINF:-1 tvg-id="遨游海底两万里" tvg-name="遨游海底两万里" tvg-logo="" group-title="人与自然",遨游海底两万里
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/31d0363fb3714ce4b916790aa7da22db/1200.m3u8
+
+#EXTINF:-1 tvg-id="都市里的丛林(上)" tvg-name="都市里的丛林(上)" tvg-logo="" group-title="人与自然",都市里的丛林(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2e2e0e875d624196af0488f6b07bb2e0/1200.m3u8
+
+#EXTINF:-1 tvg-id="都市里的丛林(下)" tvg-name="都市里的丛林(下)" tvg-logo="" group-title="人与自然",都市里的丛林(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9f79dac568844de8813e682b280efb4f/1200.m3u8
+
+#EXTINF:-1 tvg-id="都市里的野生家园(上)" tvg-name="都市里的野生家园(上)" tvg-logo="" group-title="人与自然",都市里的野生家园(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/03770b0594d44f289ce91022fe37a7bf/1200.m3u8
+
+#EXTINF:-1 tvg-id="都市里的野生家园(下)" tvg-name="都市里的野生家园(下)" tvg-logo="" group-title="人与自然",都市里的野生家园(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/06ca0e5a61624f11987ba99dc9a8ed64/1200.m3u8
+
+#EXTINF:-1 tvg-id="野性生存秘籍1" tvg-name="野性生存秘籍1" tvg-logo="" group-title="人与自然",野性生存秘籍1
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/7c8a682e6c5749b19d375b0c562f4c87/1200.m3u8
+
+#EXTINF:-1 tvg-id="野性生存秘籍2" tvg-name="野性生存秘籍2" tvg-logo="" group-title="人与自然",野性生存秘籍2
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b95862f403d5404f87114f6a651119e6/1200.m3u8
+
+#EXTINF:-1 tvg-id="野性的召唤1" tvg-name="野性的召唤1" tvg-logo="" group-title="人与自然",野性的召唤1
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ce41c579b0c84ada982b79073028d116/1200.m3u8
+
+#EXTINF:-1 tvg-id="野性的召唤2" tvg-name="野性的召唤2" tvg-logo="" group-title="人与自然",野性的召唤2
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/24514b1197ea46b9a443121f5e19f535/1200.m3u8
+
+#EXTINF:-1 tvg-id="野性的召唤3" tvg-name="野性的召唤3" tvg-logo="" group-title="人与自然",野性的召唤3
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9a6b5b4568574867933091059ff57680/1200.m3u8
+
+#EXTINF:-1 tvg-id="野性的魅力1" tvg-name="野性的魅力1" tvg-logo="" group-title="人与自然",野性的魅力1
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2f83cd6f217c48e8abb8064f430bc93a/1200.m3u8
+
+#EXTINF:-1 tvg-id="野性的魅力2" tvg-name="野性的魅力2" tvg-logo="" group-title="人与自然",野性的魅力2
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/091f7f7dfce34c0d83bcd93c0b58dc07/1200.m3u8
+
+#EXTINF:-1 tvg-id="野性美洲(五)" tvg-name="野性美洲(五)" tvg-logo="" group-title="人与自然",野性美洲(五)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/58a370a91cbf49858c18e6d72007d12e/1200.m3u8
+
+#EXTINF:-1 tvg-id="野性美洲1" tvg-name="野性美洲1" tvg-logo="" group-title="人与自然",野性美洲1
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d1a92d87e2c74de7a799141e5e89eb3b/1200.m3u8
+
+#EXTINF:-1 tvg-id="野性美洲2" tvg-name="野性美洲2" tvg-logo="" group-title="人与自然",野性美洲2
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2e902191f2524bc198a656db71791080/1200.m3u8
+
+#EXTINF:-1 tvg-id="野性美洲3" tvg-name="野性美洲3" tvg-logo="" group-title="人与自然",野性美洲3
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/4cb2ce54e7e047a99c772d3874f4c916/1200.m3u8
+
+#EXTINF:-1 tvg-id="野性美洲4" tvg-name="野性美洲4" tvg-logo="" group-title="人与自然",野性美洲4
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5dcd2b749aae4e7e973271f124e83fb1/1200.m3u8
+
+#EXTINF:-1 tvg-id="野狗家族传世之爱" tvg-name="野狗家族传世之爱" tvg-logo="" group-title="人与自然",野狗家族传世之爱
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/dc4007615a124e29827b16bec3885db5/1200.m3u8
+
+#EXTINF:-1 tvg-id="野生世界竞技场(上)" tvg-name="野生世界竞技场(上)" tvg-logo="" group-title="人与自然",野生世界竞技场(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/11ac06bbb4f0426fbc4c7b3bfd864b3f/1200.m3u8
+
+#EXTINF:-1 tvg-id="野生世界竞技场(下)" tvg-name="野生世界竞技场(下)" tvg-logo="" group-title="人与自然",野生世界竞技场(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/bf683b66c36343599bcad10516c58274/1200.m3u8
+
+#EXTINF:-1 tvg-id="野生白狮(上)" tvg-name="野生白狮(上)" tvg-logo="" group-title="人与自然",野生白狮(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/a9a5e806d97d41f5827532f1cb3f9afa/1200.m3u8
+
+#EXTINF:-1 tvg-id="野生白狮(下)" tvg-name="野生白狮(下)" tvg-logo="" group-title="人与自然",野生白狮(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1e405a3890d3497d80df5351ad30f169/1200.m3u8
+
+#EXTINF:-1 tvg-id="野生白狮(中)" tvg-name="野生白狮(中)" tvg-logo="" group-title="人与自然",野生白狮(中)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/aa5594a7d44b42768d0b4f2fa3e3651d/1200.m3u8
+
+#EXTINF:-1 tvg-id="金豺夫妇的故事" tvg-name="金豺夫妇的故事" tvg-logo="" group-title="人与自然",金豺夫妇的故事
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5b71afacb8eb442d9d4a5844d3ceca15/1200.m3u8
+
+#EXTINF:-1 tvg-id="镜头里的真相1" tvg-name="镜头里的真相1" tvg-logo="" group-title="人与自然",镜头里的真相1
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/df70034b3a4243bd888d18b8b877787d/1200.m3u8
+
+#EXTINF:-1 tvg-id="险境求生" tvg-name="险境求生" tvg-logo="" group-title="人与自然",险境求生
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3f41478fa1f24606bc1bad4725df7b59/1200.m3u8
+
+#EXTINF:-1 tvg-id="险境求生的小河马(上)" tvg-name="险境求生的小河马(上)" tvg-logo="" group-title="人与自然",险境求生的小河马(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/4b24374adc24487db8c9d5ac5d037079/1200.m3u8
+
+#EXTINF:-1 tvg-id="险境求生的小河马(下)" tvg-name="险境求生的小河马(下)" tvg-logo="" group-title="人与自然",险境求生的小河马(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5c22e195021d49b8bc5868147fdc3139/1200.m3u8
+
+#EXTINF:-1 tvg-id="隐秘王国里的奇迹1" tvg-name="隐秘王国里的奇迹1" tvg-logo="" group-title="人与自然",隐秘王国里的奇迹1
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/e2094de08292490db17c29ec299b4bc2/1200.m3u8
+
+#EXTINF:-1 tvg-id="隐秘王国里的奇迹2" tvg-name="隐秘王国里的奇迹2" tvg-logo="" group-title="人与自然",隐秘王国里的奇迹2
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1cee8d6ac393418e887420a6e1d54b6e/1200.m3u8
+
+#EXTINF:-1 tvg-id="隐秘王国里的奇迹3" tvg-name="隐秘王国里的奇迹3" tvg-logo="" group-title="人与自然",隐秘王国里的奇迹3
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2fe654a3cadf4838bb34ea18441378e8/1200.m3u8
+
+#EXTINF:-1 tvg-id="隐秘王国里的奇迹4" tvg-name="隐秘王国里的奇迹4" tvg-logo="" group-title="人与自然",隐秘王国里的奇迹4
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/953467196a854ed786f7e3521579f1f6/1200.m3u8
+
+#EXTINF:-1 tvg-id="隐秘的海鬣蜥王国" tvg-name="隐秘的海鬣蜥王国" tvg-logo="" group-title="人与自然",隐秘的海鬣蜥王国
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b7af80d20f06401989879c44eaf865e8/1200.m3u8
+
+#EXTINF:-1 tvg-id="雄风再起" tvg-name="雄风再起" tvg-logo="" group-title="人与自然",雄风再起
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b9176a8a35c94c37ade29708eed40190/1200.m3u8
+
+#EXTINF:-1 tvg-id="雨季狮踪" tvg-name="雨季狮踪" tvg-logo="" group-title="人与自然",雨季狮踪
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c1af227765174580bb3ad5c641f4dfd1/1200.m3u8
+
+#EXTINF:-1 tvg-id="雨林守护的秘密(上)" tvg-name="雨林守护的秘密(上)" tvg-logo="" group-title="人与自然",雨林守护的秘密(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/18aecd7b1b064f3692f80ce6906895d5/1200.m3u8
+
+#EXTINF:-1 tvg-id="雨林守护的秘密(下)" tvg-name="雨林守护的秘密(下)" tvg-logo="" group-title="人与自然",雨林守护的秘密(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/084be96dbd124ac499afc25eb1e4d63d/1200.m3u8
+
+#EXTINF:-1 tvg-id="雪鸮的生存之舞" tvg-name="雪鸮的生存之舞" tvg-logo="" group-title="人与自然",雪鸮的生存之舞
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/722362cb57a74028804e0413141a1866/1200.m3u8
+
+#EXTINF:-1 tvg-id="雪鸮的风中芭蕾" tvg-name="雪鸮的风中芭蕾" tvg-logo="" group-title="人与自然",雪鸮的风中芭蕾
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/4ee145f174a8464fb624c4ae62992b1c/1200.m3u8
+
+#EXTINF:-1 tvg-id="非凡虎女王(上)" tvg-name="非凡虎女王(上)" tvg-logo="" group-title="人与自然",非凡虎女王(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2e657776c024445b83a0554d71773c0b/1200.m3u8
+
+#EXTINF:-1 tvg-id="非凡虎女王(下)" tvg-name="非凡虎女王(下)" tvg-logo="" group-title="人与自然",非凡虎女王(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2c7ecbc0033049efa1946472214eeae3/1200.m3u8
+
+#EXTINF:-1 tvg-id="非同一般的友谊" tvg-name="非同一般的友谊" tvg-logo="" group-title="人与自然",非同一般的友谊
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/fc5b68979baa47e6ab90db7e78b43364/1200.m3u8
+
+#EXTINF:-1 tvg-id="非洲水牛战狮群(上)" tvg-name="非洲水牛战狮群(上)" tvg-logo="" group-title="人与自然",非洲水牛战狮群(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/945ab75be37f46c984dade1efb742b00/1200.m3u8
+
+#EXTINF:-1 tvg-id="非洲水牛战狮群(下)" tvg-name="非洲水牛战狮群(下)" tvg-logo="" group-title="人与自然",非洲水牛战狮群(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/76d3b3c55eaf44b198ceb0f456f41416/1200.m3u8
+
+#EXTINF:-1 tvg-id="非洲野放计划2" tvg-name="非洲野放计划2" tvg-logo="" group-title="人与自然",非洲野放计划2
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/21ff76c2151743f983d8f67d3cc7231d/1200.m3u8
+
+#EXTINF:-1 tvg-id="非洲野放计划3" tvg-name="非洲野放计划3" tvg-logo="" group-title="人与自然",非洲野放计划3
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/234631821d1343b086ed272be364d861/1200.m3u8
+
+#EXTINF:-1 tvg-id="非洲野放计划4" tvg-name="非洲野放计划4" tvg-logo="" group-title="人与自然",非洲野放计划4
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/28f6148101924fadb0f1cab6017801fe/1200.m3u8
+
+#EXTINF:-1 tvg-id="非洲野狗家族" tvg-name="非洲野狗家族" tvg-logo="" group-title="人与自然",非洲野狗家族
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2e64ec647a314b74b27ebc7f6bb985f2/1200.m3u8
+
+#EXTINF:-1 tvg-id="领养一只宠物狗" tvg-name="领养一只宠物狗" tvg-logo="" group-title="人与自然",领养一只宠物狗
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ec7ccf71d6544387afbfc956f4c29ceb/1200.m3u8
+
+#EXTINF:-1 tvg-id="高个子幸运儿" tvg-name="高个子幸运儿" tvg-logo="" group-title="人与自然",高个子幸运儿
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0ea3dbe589a34258b6109229223de234/1200.m3u8
+
+#EXTINF:-1 tvg-id="鬣蜥生存攻略" tvg-name="鬣蜥生存攻略" tvg-logo="" group-title="人与自然",鬣蜥生存攻略
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ae22dffaf28f496584fc581ab72fab9c/1200.m3u8
+
+#EXTINF:-1 tvg-id="鳄鱼出海" tvg-name="鳄鱼出海" tvg-logo="" group-title="人与自然",鳄鱼出海
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/7bdf23a599b44a7c8308684cbb789da0/1200.m3u8
+
+#EXTINF:-1 tvg-id="鳄鱼王漂流记" tvg-name="鳄鱼王漂流记" tvg-logo="" group-title="人与自然",鳄鱼王漂流记
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8da4a365db75455cb0c15bd7681b57fc/1200.m3u8
+
+#EXTINF:-1 tvg-id="黑猩猩的丛林法则" tvg-name="黑猩猩的丛林法则" tvg-logo="" group-title="人与自然",黑猩猩的丛林法则
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/05ff5278105445e1a9d5651372faf47e/1200.m3u8
+
+#EXTINF:-1 tvg-id="龙宫里的奇异动物" tvg-name="龙宫里的奇异动物" tvg-logo="" group-title="人与自然",龙宫里的奇异动物
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3528163c6b7d4a48b09b24027351ccf7/1200.m3u8
+
+#EXTINF:-1 tvg-id="春晚1983" tvg-name="春晚1983" tvg-logo="" group-title="春晚“, 春晚1983
+https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
+
+#EXTINF:-1 tvg-id="春晚1984" tvg-name="春晚1984" tvg-logo="" group-title="春晚“, 春晚1984
+https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
+
+#EXTINF:-1 tvg-id="春晚1985" tvg-name="春晚1985" tvg-logo="" group-title="春晚", 春晚1985
+https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
+
+#EXTINF:-1 tvg-id="春晚1986" tvg-name="春晚1986" tvg-logo="" group-title="春晚", 春晚1986
+https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDRfNDAzMDAxOTlfNjYyNzMyNTU0OTRfMF8z_b_B24f7d19f1132fa5d7f502f8377ad5567.mp4
+
+#EXTINF:-1 tvg-id="春晚1987" tvg-name="春晚1987" tvg-logo="" group-title="春晚", 春晚1987
+https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDhfNDAzMDAxOTlfNjYyNzMyNjMyMDNfMF8z_b_B570493ed8f7200d4013a66b2d21b2de9.mp4
+
+#EXTINF:-1 tvg-id="春晚1988" tvg-name="春晚1988" tvg-logo="" group-title="春晚", 春晚1988
+https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTJfNDAzMDAxOTlfNjYyNzMyNjkxNjBfMF8z_b_B8c835b83a92d25bde81ba22c5cd9521e.mp4
+
+#EXTINF:-1 tvg-id="春晚1989" tvg-name="春晚1989" tvg-logo="" group-title="春晚", 春晚1989
+https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
+
+#EXTINF:-1 tvg-id="春晚1990" tvg-name="春晚1990" tvg-logo="" group-title="春晚", 春晚1990
+https://cdn8.yzzy-online.com/20220704/597_e0d90c37/1000k/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="春晚1991" tvg-name="春晚1991" tvg-logo="" group-title="春晚", 春晚1991
+https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjI2MTVfNDAzMDAxOTlfNjYyNzYwNjUxNjVfMF8z_b_B8feb7b85888678d71bf37a259c6850f6.mp4
+
+#EXTINF:-1 tvg-id="春晚1992" tvg-name="春晚1992" tvg-logo="" group-title="春晚", 春晚1992
+https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
+
+#EXTINF:-1 tvg-id="春晚1993" tvg-name="春晚1993" tvg-logo="" group-title="春晚", 春晚1993
+https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYwODJfMF8z_b_B647d10e431b4cc5e48e6c77347d69021.mp4
+
+#EXTINF:-1 tvg-id="春晚1994" tvg-name="春晚1994" tvg-logo="" group-title="春晚", 春晚1994
+https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxMjNfMF8z_b_B3dde97f36273f04403d4dc5eec611a35.mp4
+
+#EXTINF:-1 tvg-id="春晚1995" tvg-name="春晚1995" tvg-logo="" group-title="春晚", 春晚1995
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4
+
+#EXTINF:-1 tvg-id="春晚1996" tvg-name="春晚1996" tvg-logo="" group-title="春晚", 春晚1996
+https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4
+
+#EXTINF:-1 tvg-id="春晚1997" tvg-name="春晚1997" tvg-logo="" group-title="春晚", 春晚1997
+https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
+
+#EXTINF:-1 tvg-id="春晚1998" tvg-name="春晚1998" tvg-logo="" group-title="春晚", 春晚1998
+https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
+
+#EXTINF:-1 tvg-id="春晚1999" tvg-name="春晚1999" tvg-logo="" group-title="春晚", 春晚1999
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQxNTRfMF8z_b_B0b5e52bc003285ef66ec0cbb2be08556.mp4
+
+#EXTINF:-1 tvg-id="春晚2000" tvg-name="春晚2000" tvg-logo="" group-title="春晚", 春晚2000
+https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxMTNfMF8z_b_Bdddf4e7ef0ff6cfd477857bb40e78419.mp4
+
+#EXTINF:-1 tvg-id="春晚2001" tvg-name="春晚2001" tvg-logo="" group-title="春晚", 春晚2001
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMDFfMF8z_b_B70592cb7c4054e9cabb675e849bbf4bd.mp4
+
+#EXTINF:-1 tvg-id="春晚2002" tvg-name="春晚2002" tvg-logo="" group-title="春晚", 春晚2002
+https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxNDdfMF8z_b_Ba6271d10b7e6cfae83759033a091f257.mp4
+
+#EXTINF:-1 tvg-id="春晚2003" tvg-name="春晚2003" tvg-logo="" group-title="春晚", 春晚2003
+https://alimov2.a.kwimgs.com/upic/2023/01/14/23/BMjAyMzAxMTQyMzQxNDdfNDAzMDAxOTlfOTM2MTU0MTk1NDFfMF8z_b_B182749d2cd2ea9323639254af385f24b.mp4
+
+#EXTINF:-1 tvg-id="春晚2004" tvg-name="春晚2004" tvg-logo="" group-title="春晚", 春晚2004
+https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxOTVfMF8z_b_B86c4430b82ff5a7f4e8132f6ee558536.mp4
+
+#EXTINF:-1 tvg-id="春晚2005" tvg-name="春晚2005" tvg-logo="" group-title="春晚", 春晚2005
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMzhfMF8z_b_B35ad7cc86aec8fc9e5ddfb31fc7bed63.mp4
+
+#EXTINF:-1 tvg-id="春晚2006" tvg-name="春晚2006" tvg-logo="" group-title="春晚", 春晚2006
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyNzlfMF8z_b_Bbc3703fc331dc994c50859c19aad28ff.mp4
+
+#EXTINF:-1 tvg-id="春晚2007" tvg-name="春晚2007" tvg-logo="" group-title="春晚", 春晚2007
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzMjNfMF8z_b_B00b069c7899976459ceeaa99353dfefe.mp4
+
+#EXTINF:-1 tvg-id="春晚2008" tvg-name="春晚2008" tvg-logo="" group-title="春晚", 春晚2008
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzNTNfMF8z_b_Bd7346962e61bd7b84e11a1fa6e4616f9.mp4
+
+#EXTINF:-1 tvg-id="春晚2009" tvg-name="春晚2009" tvg-logo="" group-title="春晚", 春晚2009
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzOTBfMF8z_b_B29a36a85e0277f6c2a1f033ef7c10708.mp4
+
+#EXTINF:-1 tvg-id="春晚2010" tvg-name="春晚2010" tvg-logo="" group-title="春晚", 春晚2010
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ0MjlfMF8z_b_B8818807a00eed329a69fb494f405bd43.mp4
+
+#EXTINF:-1 tvg-id="春晚2011" tvg-name="春晚2011" tvg-logo="" group-title="春晚", 春晚2011
+https://alimov2.a.kwimgs.com/upic/2023/01/16/11/BMjAyMzAxMTYxMTA3MjFfNDAzMDAxOTlfOTM3MjcyMjA3ODhfMF8z_b_B8214200efc869dc6fcf99dad619fa4c1.mp4
+
+#EXTINF:-1 tvg-id="春晚2012" tvg-name="春晚2012" tvg-logo="" group-title="春晚", 春晚2012
+https://cdn8.yzzy-online.com/20220704/591_82b72f82/1000k/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="春晚2013" tvg-name="春晚2013" tvg-logo="" group-title="春晚", 春晚2013
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ1NjNfMF8z_b_B4fea55408dca4471a68a963ae096be59.mp4
+
+#EXTINF:-1 tvg-id="春晚2014" tvg-name="春晚2014" tvg-logo="" group-title="春晚", 春晚2014
+https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTNfNDAzMDAxOTlfOTI4OTY2ODAzNjlfMF8z_b_Bdee65c77f9e7b2120a185c919dad81d2.mp4
+
+#EXTINF:-1 tvg-id="春晚2015" tvg-name="春晚2015" tvg-logo="" group-title="春晚", 春晚2015
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2MTZfMF8z_b_B4851f43f5a2bc2871a9b0ec87294a6e7.mp4
+
+#EXTINF:-1 tvg-id="春晚2017" tvg-name="春晚2017" tvg-logo="" group-title="春晚", 春晚2017
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2NDhfMF8z_b_B6527b0c2ce3dda1d9b3f34edd4fdb9aa.mp4
+
+#EXTINF:-1 tvg-id="春晚2019" tvg-name="春晚2019" tvg-logo="" group-title="春晚", 春晚2019
+https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
+
+#EXTINF:-1 tvg-id="春晚2020" tvg-name="春晚2020" tvg-logo="" group-title="春晚", 春晚2020
+https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
+
+#EXTINF:-1 tvg-id="春晚2021" tvg-name="春晚2021" tvg-logo="" group-title="春晚", 春晚2021
+https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
+
+#EXTINF:-1 tvg-id="春晚2022" tvg-name="春晚2022" tvg-logo="" group-title="春晚", 春晚2022
+https://alimov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
+
+#EXTINF:-1 tvg-id="春晚2023" tvg-name="春晚2023" tvg-logo="" group-title="春晚", 春晚2023
+https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
+
+#EXTINF:-1 tvg-id="BRAZZERS" tvg-name="BRAZZERS" group-title="成人",BRAZZERS
+http://23.237.100.82:8000/BRAZZERS/index.m3u8
+
+#EXTINF:-1 tvg-id="Desire" tvg-name="Desire" group-title="成人",Desire
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Miami TV" tvg-name="Miami TV " group-title="成人",Miami TV 
+https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/chunklist_w131582150_b1896000.m3u8
+
+#EXTINF:-1 tvg-id="Miami TV Jenny for You" tvg-name="Miami TV Jenny for You" group-title="成人",Miami TV Jenny for You
+https://59ec5453559f0.streamlock.net/jennyforyou/jennyforyou/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PENTHOUSE" tvg-name="PENTHOUSE" group-title="成人",PENTHOUSE
+http://23.237.100.82:8000/PENTHOUSE/index.m3u8
+
+#EXTINF:-1 tvg-id="PENTHOUSE GOLD" tvg-name="PENTHOUSE GOLD" group-title="成人",PENTHOUSE GOLD
+http://51.159.102.100/PenthouseGold/index.m3u8
+
+#EXTINF:-1 tvg-id="PLAYBOY" tvg-name="PLAYBOY" group-title="成人",PLAYBOY
+http://23.237.100.82:8000/PLAYBOY/index.m3u8
+
+#EXTINF:-1 tvg-id="PLAYBOY LIVE" tvg-name="PLAYBOY LIVE" group-title="成人",PLAYBOY LIVE
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PURETABOO" tvg-name="PURETABOO" group-title="成人",PURETABOO
+http://78.47.224.234/puretaboo/index.m3u8
+
+#EXTINF:-1 tvg-id="Redlight" tvg-name="Redlight" group-title="成人",Redlight
+http://51.159.102.100/RedlightHD/index.m3u8
+
+#EXTINF:-1 tvg-id="Stage" tvg-name="Stage" group-title="成人",Stage
+http://206.212.248.20/live/wickeduk/asdfasdfasdf3/116425.m3u8
+
+#EXTINF:-1 tvg-id="TV8" tvg-name="TV8" group-title="成人",TV8
+http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8
+
+#EXTINF:-1 tvg-id="新闻综合频道" tvg-name="新闻综合频道" tvg-logo="http://img.dtradio.com.cn/202108133565912000360b20a262fb72f4fecbb3.png" group-title="北京 山西",新闻综合频道
+https://live.dtradio.com.cn/xwzh/playlist.m3u8?_upt=8dd7c7331720774577
+#EXTINF:-1 tvg-id="公共频道" tvg-name="公共频道" tvg-logo="http://img.dtradio.com.cn/20200805fc4f2340850992cfd563d2ef3e8fed30.png" group-title="北京 山西",公共频道
+https://live.dtradio.com.cn/ggpd/playlist.m3u8?_upt=b22653561720774577
+#EXTINF:-1 tvg-id="大同生活频道" tvg-name="大同生活频道" tvg-logo="http://img.dtradio.com.cn/20200805b5f06d439c3d20f87c0a8aac2c21dbb0.png" group-title="北京 山西",大同生活频道
+https://live.dtradio.com.cn/mdsh/playlist.m3u8?_upt=13f94be31720774577
