@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1 综合
-https://outlivecloud-cdn.ysp.cctv.cn/C6EC3BA2103CF8F9D4FA67024388BE53BB3E6F3EFFCEA04C619D72D0F15F5994180A4B35E77E9F48C7653BD1CE38BA6AA96EDF849528FAD98BBCE92BDF78CDBBD6373141D738372AA43DFFFB02593787992CEA361BA02A7B3A9060D699DC8D6B7D0411ACA56E597F8482A516A0DDE6AF/2024078203_web.m3u8?from=player&svrtime=1720842928&pid=600001859&cdn=5401&revoi=&app_id=519748109&guid=lqgnq1zf_pyhb3kn2ks8&ysign=97a7ebc000aabee35532c4b7dbca6f8b&ytime=1720842928&ytype=1
+https://z02.ubtvfans.com/live/rx1/200/e5159301cd4aaf84a7f39915d463a106/index.m3u8
 
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV-2 财经
 https://z88.ubtvfans.com/live/rx1/2305/33545cc7858137acae827ca84a574951/index.m3u8
@@ -39,7 +39,7 @@ http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225815/index.m3u8
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225932/index.m3u8
 
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视",CCTV-13 新闻
-https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
+https://node1.olelive.com:6443/live/CCTV13HD_360/hls.m3u8
 
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视",CCTV-14 少儿
 http://118.79.114.126:6001/rtp/226.0.2.166:9240
