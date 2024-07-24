@@ -25,16 +25,10 @@ http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
 http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 tvg-id="山西文体生活" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="山西",山西文体生活
 http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true
-
-
 #EXTINF:-1 tvg-id="大同教育" tvg-name="大同春晚" tvg-logo="https://live.fanmingming.com/tv/大同教育.png" group-title="山西",大同春晚
 https://vod.dtradio.com.cn/video/2024/01/30/01d3d8dcacfbced2a0b8ede719b574ad.mp4
-
-
-
 #EXTINF:-1 tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="https://live.fanmingming.com/tv/美亚电影台.png" group-title="电影",美亚电影台
 http://50.7.238.114:8278/meiyamovie_twn/playlist.m3u8?tid=ME9E6301165163011651&ct=19249&tsum=c2c246af848b424b68e94e4b35cfa337
-
 #EXTINF:-1 tvg-id="斗鱼电影-美剧1" tvg-name="斗鱼电影-美剧1" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影-美剧1.png" group-title="电影",斗鱼电影-美剧1
 http://epg.112114.xyz/douyu/9249162
 #EXTINF:-1 tvg-id="斗鱼电影-美剧-恐怖" tvg-name="斗鱼电影-美剧-恐怖" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影-美剧-恐怖.png" group-title="电影",斗鱼电影-美剧-恐怖
@@ -71,10 +65,6 @@ http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19
 https://bp-caster.bestv.com.cn/91/3/video.m3u8
 #EXTINF:-1 tvg-id="湖南电影" tvg-name="湖南电影" tvg-logo="https://live.fanmingming.com/tv/湖南电影.png" group-title="电影",湖南电影
 http://180.97.247.27/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43029/index.m3u8
-
-
-
-
 #EXTINF:-1 tvg-id="地雷战" tvg-name="地雷战" tvg-logo="" group-title="老电影",地雷战
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a90c788a458e40508615d711b8aae1af/850.m3u8
 #EXTINF:-1 tvg-id="地道战" tvg-name="地道战" tvg-logo="" group-title="老电影",地道战
@@ -265,7 +255,6 @@ http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/25137bd7c4494128bf0c
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c6baf6f74bb944aeacee1065ea72c798/1200.m3u8
 #EXTINF:-1 tvg-id="大太平洋" tvg-name="大太平洋" tvg-logo="" group-title="人与自然",大太平洋
 http://hls.cntv.kcdnvip.com/asp/hls/4000/0303000a/3/default/2d7f4eeaed2e4ad080bcf324eb21bc0d/4000.m3u8
-
 #EXTINF:-1 tvg-id="飞碟之谜01" tvg-name="飞碟之谜01" tvg-logo="" group-title="人与自然",飞碟之谜01
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f0a47e155d32450daa1d36a04fd7d262/2000.m3u8
 #EXTINF:-1 tvg-id="飞碟之谜02" tvg-name="飞碟之谜02" tvg-logo="" group-title="人与自然",飞碟之谜02
@@ -990,10 +979,6 @@ https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8da4a365db75455cb0c
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/05ff5278105445e1a9d5651372faf47e/1200.m3u8
 #EXTINF:-1 tvg-id="龙宫里的奇异动物" tvg-name="龙宫里的奇异动物" tvg-logo="" group-title="人与自然",龙宫里的奇异动物
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3528163c6b7d4a48b09b24027351ccf7/1200.m3u8
-
-
-
-
 #EXTINF:-1 tvg-id="春晚1983" tvg-name="春晚1983" tvg-logo="" group-title="春晚", 春晚1983
 https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
 #EXTINF:-1 tvg-id="春晚1984" tvg-name="春晚1984" tvg-logo="" group-title="春晚", 春晚1984
@@ -1052,7 +1037,6 @@ https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTl
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ0MjlfMF8z_b_B8818807a00eed329a69fb494f405bd43.mp4
 #EXTINF:-1 tvg-id="春晚2011" tvg-name="春晚2011" tvg-logo="" group-title="春晚", 春晚2011
 https://alimov2.a.kwimgs.com/upic/2023/01/16/11/BMjAyMzAxMTYxMTA3MjFfNDAzMDAxOTlfOTM3MjcyMjA3ODhfMF8z_b_B8214200efc869dc6fcf99dad619fa4c1.mp4
-
 #EXTINF:-1 tvg-id="春晚2012" tvg-name="春晚2012" tvg-logo="" group-title="春晚", 春晚2012
 https://cdn8.yzzy-online.com/20220704/591_82b72f82/1000k/hls/index.m3u8
 #EXTINF:-1 tvg-id="春晚2013" tvg-name="春晚2013" tvg-logo="" group-title="春晚", 春晚2013
@@ -1061,12 +1045,10 @@ https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTl
 https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTNfNDAzMDAxOTlfOTI4OTY2ODAzNjlfMF8z_b_Bdee65c77f9e7b2120a185c919dad81d2.mp4
 #EXTINF:-1 tvg-id="春晚2015" tvg-name="春晚2015" tvg-logo="" group-title="春晚", 春晚2015
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2MTZfMF8z_b_B4851f43f5a2bc2871a9b0ec87294a6e7.mp4
-
 #EXTIF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="春晚", 春晚2016
 https://cdn8.yzzy-online.com/20220704/577_cda9c8d1/1000k/hls/index.m3u8
 #EXTINF:-1 tvg-id="春晚2017" tvg-name="春晚2017" tvg-logo="" group-title="春晚", 春晚2017
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2NDhfMF8z_b_B6527b0c2ce3dda1d9b3f34edd4fdb9aa.mp4
-
 #EXTIF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="春晚", 春晚2018
 https://cdn8.yzzy-online.com/20220704/610_ae5255ad/1000k/hls/index.m3u8
 #EXTINF:-1 tvg-id="春晚2019" tvg-name="春晚2019" tvg-logo="" group-title="春晚", 春晚2019
@@ -1079,11 +1061,6 @@ https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTl
 https://alimov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
 #EXTINF:-1 tvg-id="春晚2023" tvg-name="春晚2023" tvg-logo="" group-title="春晚", 春晚2023
 https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
-
-
-
-
-
 #EXTINF:-1 tvg-id="BRAZZERS" tvg-name="BRAZZERS" group-title="成人",BRAZZERS
 http://23.237.100.82:8000/BRAZZERS/index.m3u8
 #EXTINF:-1 tvg-id="Desire" tvg-name="Desire" group-title="成人",Desire
